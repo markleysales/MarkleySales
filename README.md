@@ -3,7 +3,8 @@
 
 😄 - Sou Autodidata, entusiasta em Engenharia de Software (Com foco Front-End) e estou constantemente em busca de evolução como técnico e cientista. Eu não acredito em limites e estou inspirado com as novas técnicas de programação.<br>
 I am a Self-taught, Software Engineering enthusiast (with a Front-End focus) and I am constantly looking for evolution as a technician and scientist. I don't believe in limits and am inspired by new programming techniques.
-<p>⚡ - Para entrar em contato, estou disponível no <a href="https://www.linkedin.com/in/markley-sales-7a4b07226/">LinkedIn</a> e por <a href="mailto:marksales.dev.eng@gmail.com">Email</a><br>To get in touch, I'm available on <a href="https://www.linkedin.com/in/markley-sales-7a4b07226/">LinkedIn</a> and by <a href="mailto:marksales.dev.eng@gmail.com">Email</a>
+<p>⚡ - Para entrar em contato, estou disponível no <a href="https://www.linkedin.com/in/markley-sales-7a4b07226/">LinkedIn</a> e por <a href="mailto:marksales.dev.eng@gmail.com">Email</a><br>
+  To get in touch, I'm available on <a href="https://www.linkedin.com/in/markley-sales-7a4b07226/">LinkedIn</a> and by <a href="mailto:marksales.dev.eng@gmail.com">Email</a>
 
 
 
