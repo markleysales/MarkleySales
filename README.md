@@ -1,8 +1,7 @@
 
-<img width= 600px src="https://user-images.githubusercontent.com/95272518/144968886-3e1ea663-180c-4f9a-a432-d184a52aa98d.jpg">
+<img width= 600px src="https://user-images.githubusercontent.com/95272518/146667709-2162cad0-9034-4e37-bc40-80ca9375e2c5.jpg">
 
-😄 - Sou Autodidata, entusiasta em Engenharia de Software (Com foco Front-End) e estou constantemente em busca de evolução como técnico e cientista. Eu não acredito em limites e estou inspirado com as novas técnicas de programação.<br>
-I am a Self-taught, Software Engineering enthusiast (with a Front-End focus) and I am constantly looking for evolution as a technician and scientist. I don't believe in limits and am inspired by new programming techniques.
+
 <p>⚡ - Para entrar em contato, estou disponível no <a href="https://linkedin.com/in/markley-sales/">LinkedIn</a> e por <a href="mailto:marksales.dev.eng@gmail.com">Email</a><br>
   To get in touch, I'm available on <a href="https://linkedin.com/in/markley-sales/">LinkedIn</a> and by <a href="mailto:marksales.dev.eng@gmail.com">Email</a>
 
