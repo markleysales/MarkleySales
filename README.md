@@ -3,7 +3,7 @@
 
 
 <p>⚡ - Para entrar em contato, estou disponível no <a href="https://linkedin.com/in/markley-sales/">LinkedIn</a> e por <a href="mailto:marksales.dev.eng@gmail.com">Email</a><br>
-  To get in touch, I'm available on <a href="https://linkedin.com/in/markley-sales/">LinkedIn</a> and by <a href="mailto:marksales.dev.eng@gmail.com">Email</a>
+   💬 - To get in touch, I'm available on <a href="https://linkedin.com/in/markley-sales/">LinkedIn</a> and by <a href="mailto:marksales.dev.eng@gmail.com">Email</a>
 
 
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌱 
 - 👯 
 - 🤔 
-- 💬 
+-   
 - 📫 
 - 😄 
 - ⚡ 
