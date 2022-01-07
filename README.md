@@ -1,13 +1,12 @@
-
 <img src="https://user-images.githubusercontent.com/95272518/147783508-4791f43e-ea64-43c9-b56b-0d4fa027c2f5.jpg">
 <div float="left">
-<img src="https://user-images.githubusercontent.com/95272518/148485311-85b55c98-a1b2-42f5-9b56-b4b5eaba9f25.png">
-<img src="https://user-images.githubusercontent.com/95272518/148485427-fd11b5db-6e87-4d09-bf45-59f3053f0a90.png">
-<img src="https://user-images.githubusercontent.com/95272518/148485592-2c5c8063-00c3-4e6f-b4e7-38d286bf5895.png">
-<img src="https://user-images.githubusercontent.com/95272518/148485745-9ac88df9-7dbe-4994-93e2-0220e58f4ab6.png">
-<img src="https://user-images.githubusercontent.com/95272518/148485637-fee1fdcc-cb99-44d1-8367-a7023b4c5e2b.png">
-<img src="https://user-images.githubusercontent.com/95272518/148486773-8b4a4b32-1640-4449-a472-e13867aecbba.png">
-<img src="https://user-images.githubusercontent.com/95272518/148486879-ac278884-2bbf-45e8-88a7-1aa876ec2538.png">
+<img width="80" src="https://user-images.githubusercontent.com/95272518/148610021-f2633191-9ca6-4a21-94d6-79760dfbb3c3.png">
+<img width="80" src="https://user-images.githubusercontent.com/95272518/148610038-e5b5ddd1-85f1-429d-89cc-5fe724f9f9c9.png">
+<img width="80" src="https://user-images.githubusercontent.com/95272518/148610083-f759e163-3150-40d4-b8a6-9c5fa18dd1b2.png">
+<img width="80" src="https://user-images.githubusercontent.com/95272518/148610108-f2db0fe8-def1-4531-bf78-d598fe862088.png">
+<img width="80" src="https://user-images.githubusercontent.com/95272518/148610134-bbf25812-d9d4-4904-ab95-45a35ec2fdcd.png">
+<img width="80" src="https://user-images.githubusercontent.com/95272518/148610141-131e7d90-36c9-42b5-8e2c-e8f4a1d3f765.png">
+<img width="80" src="https://user-images.githubusercontent.com/95272518/148610154-b31ee2e7-87ec-4a58-93a6-7d1a736d2d1d.png">
 </div>
 <div>💬 - Para entrar em contato, estou disponível no <a href="https://linkedin.com/in/markley-sales/">LinkedIn</a> e por <a href="mailto:marksales.dev.eng@gmail.com">Email</a><br>
    💬 - To get in touch, I'm available on <a href="https://linkedin.com/in/markley-sales/">LinkedIn</a> and by <a href="mailto:marksales.dev.eng@gmail.com">Email</a>
