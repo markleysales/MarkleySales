@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/95272518/148742172-74a2651d-e944-4e26-a0ff-5cd7ace67e3c.jpg">
-<h2>MY TECHNOLOGIES</h2>
+<h2>TECHNOLOGIES</h2>
 <div float="left">
 <img width="80" src="https://user-images.githubusercontent.com/95272518/148610021-f2633191-9ca6-4a21-94d6-79760dfbb3c3.png">
 <img width="80" src="https://user-images.githubusercontent.com/95272518/148610038-e5b5ddd1-85f1-429d-89cc-5fe724f9f9c9.png">
@@ -13,7 +13,7 @@
 <img width="80" src="https://user-images.githubusercontent.com/95272518/148628381-3806ff31-57cb-4f94-b145-663642598207.png">
 </div>
 <div>I am constantly studying new technologies.</div>
-<h2>MY CONTACTS</h2>
+<h2>CONTACTS</h2>
 <div>💬 - Para entrar em contato, estou disponível no <a href="https://linkedin.com/in/markley-sales/">LinkedIn</a> e por <a href="mailto:marksales.dev.eng@gmail.com">Email</a><br>
    💬 - To get in touch, I'm available on <a href="https://linkedin.com/in/markley-sales/">LinkedIn</a> and by <a href="mailto:marksales.dev.eng@gmail.com">Email</a>
 
