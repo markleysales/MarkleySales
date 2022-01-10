@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/95272518/147783508-4791f43e-ea64-43c9-b56b-0d4fa027c2f5.jpg">
+<img src="https://user-images.githubusercontent.com/95272518/148740156-410d7e0a-5f05-47ae-a814-20157c83124a.jpg">
 <h2>MY TECHNOLOGIES</h2>
 <div float="left">
 <img width="80" src="https://user-images.githubusercontent.com/95272518/148610021-f2633191-9ca6-4a21-94d6-79760dfbb3c3.png">
