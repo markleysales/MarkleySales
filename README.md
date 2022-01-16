@@ -8,7 +8,6 @@
 <img width="80" src="https://user-images.githubusercontent.com/95272518/148610134-bbf25812-d9d4-4904-ab95-45a35ec2fdcd.png">
 <img width="80" src="https://user-images.githubusercontent.com/95272518/148610141-131e7d90-36c9-42b5-8e2c-e8f4a1d3f765.png">
 <img width="80" src="https://user-images.githubusercontent.com/95272518/148610154-b31ee2e7-87ec-4a58-93a6-7d1a736d2d1d.png">
-
 </div>
 <div>I am constantly studying new technologies.</div>
 <h2>CONTACTS</h2>
