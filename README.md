@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/95272518/149684370-ca7560c3-1dd0-4e58-81cc-2d8816610c49.jpg">
-<h3>TECHNOLOGIES<h3/>
+<h3>TECHNOLOGIES</h3>
 <hr>
 <div align="center" float="left">
    <img width="70" src="https://user-images.githubusercontent.com/95272518/152637034-113074fd-01ba-4263-b572-58382b250b40.svg">
@@ -16,6 +16,11 @@
 <hr>
 <h4>💬 - Para entrar em contato, estou disponível no <a href="https://linkedin.com/in/markley-sales/">LinkedIn</a> e por <a href="mailto:marksales.dev.eng@gmail.com">Email</a><br>
    💬 - To get in touch, I'm available on <a href="https://linkedin.com/in/markley-sales/">LinkedIn</a> and by <a href="mailto:marksales.dev.eng@gmail.com">Email</a></h4>
+<br>
+<div align="center" float="left">
+   <img width="49.5%" src="https://user-images.githubusercontent.com/95272518/152638376-4865c9a8-1e97-47e3-beeb-4339c9181d7b.gif">
+   <img width="49.5%" src="https://user-images.githubusercontent.com/95272518/152638380-0bbf2289-2041-4937-a902-d409ee59991f.gif">
+</div>
 
 
 
