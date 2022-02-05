@@ -1,18 +1,18 @@
 <img src="https://user-images.githubusercontent.com/95272518/149684370-ca7560c3-1dd0-4e58-81cc-2d8816610c49.jpg">
 <h2>TECHNOLOGIES</h2>
-<div float="left">
-<img width="80" src="https://user-images.githubusercontent.com/95272518/148610021-f2633191-9ca6-4a21-94d6-79760dfbb3c3.png">
-<img width="80" src="https://user-images.githubusercontent.com/95272518/148610038-e5b5ddd1-85f1-429d-89cc-5fe724f9f9c9.png">
-<img width="80" src="https://user-images.githubusercontent.com/95272518/148610083-f759e163-3150-40d4-b8a6-9c5fa18dd1b2.png">
-<img width="80" src="https://user-images.githubusercontent.com/95272518/148610108-f2db0fe8-def1-4531-bf78-d598fe862088.png">
-<img width="80" src="https://user-images.githubusercontent.com/95272518/148610134-bbf25812-d9d4-4904-ab95-45a35ec2fdcd.png">
-<img width="80" src="https://user-images.githubusercontent.com/95272518/148610141-131e7d90-36c9-42b5-8e2c-e8f4a1d3f765.png">
-<img width="80" src="https://user-images.githubusercontent.com/95272518/148610154-b31ee2e7-87ec-4a58-93a6-7d1a736d2d1d.png">
+<div align="center" float="left">
+   <img width="70" src="https://user-images.githubusercontent.com/95272518/152637034-113074fd-01ba-4263-b572-58382b250b40.svg">
+   <img width="70" src="https://user-images.githubusercontent.com/95272518/152637051-49416c82-98fc-45a6-9c3f-a8d53315347f.svg">
+   <img width="70" src="https://user-images.githubusercontent.com/95272518/152637055-b93b5f1d-1701-450a-8b37-e96f390cb62e.svg">
+   <img width="70" src="https://user-images.githubusercontent.com/95272518/152637056-1278896a-a289-4147-abc3-83cdb497e4c9.svg">
+   <img width="70" src="https://user-images.githubusercontent.com/95272518/152637062-b2ff122f-96ce-402c-88d8-47b282b0ef31.svg">
+   <img width="70" src="https://user-images.githubusercontent.com/95272518/152637067-69760f1b-31e1-4ad7-a2dd-978be0e19479.svg">
+   <img width="70" src="https://user-images.githubusercontent.com/95272518/152637068-f69a6109-a08d-4eee-8ca9-f55160df45c3.svg">
 </div>
-<div>I am constantly studying new technologies.</div>
+<div align="center">I am constantly studying new technologies.</div>
 <h2>CONTACTS</h2>
 <div>💬 - Para entrar em contato, estou disponível no <a href="https://linkedin.com/in/markley-sales/">LinkedIn</a> e por <a href="mailto:marksales.dev.eng@gmail.com">Email</a><br>
-   💬 - To get in touch, I'm available on <a href="https://linkedin.com/in/markley-sales/">LinkedIn</a> and by <a href="mailto:marksales.dev.eng@gmail.com">Email</a>
+   💬 - To get in touch, I'm available on <a href="https://linkedin.com/in/markley-sales/">LinkedIn</a> and by <a href="mailto:marksales.dev.eng@gmail.com">Email</a></div>
 
 
 
