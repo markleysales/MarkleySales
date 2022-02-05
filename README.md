@@ -1,5 +1,6 @@
 <img src="https://user-images.githubusercontent.com/95272518/149684370-ca7560c3-1dd0-4e58-81cc-2d8816610c49.jpg">
-<h2>TECHNOLOGIES</h2>
+<h3>TECHNOLOGIES<h3/>
+<hr>
 <div align="center" float="left">
    <img width="70" src="https://user-images.githubusercontent.com/95272518/152637034-113074fd-01ba-4263-b572-58382b250b40.svg">
    <img width="70" src="https://user-images.githubusercontent.com/95272518/152637051-49416c82-98fc-45a6-9c3f-a8d53315347f.svg">
@@ -9,10 +10,11 @@
    <img width="70" src="https://user-images.githubusercontent.com/95272518/152637067-69760f1b-31e1-4ad7-a2dd-978be0e19479.svg">
    <img width="70" src="https://user-images.githubusercontent.com/95272518/152637068-f69a6109-a08d-4eee-8ca9-f55160df45c3.svg">
 </div>
-<div align="center">I am constantly studying new technologies.</div>
-<h2>CONTACTS</h2>
-<div>💬 - Para entrar em contato, estou disponível no <a href="https://linkedin.com/in/markley-sales/">LinkedIn</a> e por <a href="mailto:marksales.dev.eng@gmail.com">Email</a><br>
-   💬 - To get in touch, I'm available on <a href="https://linkedin.com/in/markley-sales/">LinkedIn</a> and by <a href="mailto:marksales.dev.eng@gmail.com">Email</a></div>
+<h4 align="center">I am constantly studying new technologies.</h4>
+<h3>CONTACTS</h3>
+<hr>
+<h4>💬 - Para entrar em contato, estou disponível no <a href="https://linkedin.com/in/markley-sales/">LinkedIn</a> e por <a href="mailto:marksales.dev.eng@gmail.com">Email</a><br>
+   💬 - To get in touch, I'm available on <a href="https://linkedin.com/in/markley-sales/">LinkedIn</a> and by <a href="mailto:marksales.dev.eng@gmail.com">Email</a></h4>
 
 
 
