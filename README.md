@@ -11,6 +11,7 @@
    <img width="70" src="https://user-images.githubusercontent.com/95272518/152637068-f69a6109-a08d-4eee-8ca9-f55160df45c3.svg">
 </div>
 <h4 align="center">I am constantly studying new technologies.</h4>
+<br>
 <h3>CONTACTS</h3>
 <hr>
 <h4>💬 - Para entrar em contato, estou disponível no <a href="https://linkedin.com/in/markley-sales/">LinkedIn</a> e por <a href="mailto:marksales.dev.eng@gmail.com">Email</a><br>
