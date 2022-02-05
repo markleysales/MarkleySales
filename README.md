@@ -10,7 +10,8 @@
    <img width="70" src="https://user-images.githubusercontent.com/95272518/152637067-69760f1b-31e1-4ad7-a2dd-978be0e19479.svg">
    <img width="70" src="https://user-images.githubusercontent.com/95272518/152637068-f69a6109-a08d-4eee-8ca9-f55160df45c3.svg">
 </div>
-<h4 align="center">I am constantly studying new technologies.</h4>
+<h4 align="center">Estou constantemente estudando novas tecnologias.
+   <br>I am constantly studying new technologies.</h4>
 <br>
 <h3>CONTACTS</h3>
 <hr>
