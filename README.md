@@ -1,5 +1,6 @@
-<img src="https://user-images.githubusercontent.com/95272518/152739445-4442d831-05ee-48fd-956d-82ea42f741ad.svg">
+<img src="https://user-images.githubusercontent.com/95272518/152739445-4442d831-05ee-48fd-956d-82ea42f741ad.svg"><br><br>
 <h3>TECHNOLOGIES</h3>
+<!--<p>Programming and Design</p>-->
 <hr>
 <div align="center" float="left">
    <img width="60px" src="https://user-images.githubusercontent.com/95272518/152637034-113074fd-01ba-4263-b572-58382b250b40.svg">
