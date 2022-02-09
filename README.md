@@ -21,7 +21,7 @@
 <br>
 <div align="center" float="left">
    <img width="49.7%" src="https://user-images.githubusercontent.com/95272518/152638376-4865c9a8-1e97-47e3-beeb-4339c9181d7b.gif">
-   <img width="49.7%" src="https://user-images.githubusercontent.com/95272518/152638380-0bbf2289-2041-4937-a902-d409ee59991f.gif">
+   <img width="49.7%" src="https://user-images.githubusercontent.com/95272518/153117797-026f4af7-fada-4968-aa27-9a576d1b9313.jpg">
 </div>
 
 
