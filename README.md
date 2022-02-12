@@ -21,7 +21,7 @@
    💬 - To get in contact, I'm available at:</h4>
 <div float="left">
        <a href="https://www.linkedin.com/in/markley-sales/"> <img height="24px" src="https://img.shields.io/badge/LinkedIn-%236633cc?style=flat-square&logo=LinkedIn&color=003140&link=https://www.linkedin.com/in/markley-sales/"></a>
-       <img height="24px" src="https://img.shields.io/badge/Email-%236633cc?style=flat-square&logo=Gmail&logoColor=white&color=003140&link=mailto:marksales.dev.eng@gmail.com">
+       <a href="mailto:marksales.dev.eng@gmail.com"><img height="24px" src="https://img.shields.io/badge/Email-%236633cc?style=flat-square&logo=Gmail&logoColor=white&color=003140&link=mailto:marksales.dev.eng@gmail.com"></a>
        <img height="24px" src="https://img.shields.io/badge/Whatsapp-%236633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=003140&link="
 </div>
 <br><br>
