@@ -22,9 +22,9 @@
 <div float="left">
        <a href="https://www.linkedin.com/in/markley-sales/"> <img height="24px" src="https://img.shields.io/badge/LinkedIn-%236633cc?style=flat-square&logo=LinkedIn&color=003140&link=https://www.linkedin.com/in/markley-sales/"></a>
        <a href="mailto:marksales.dev.eng@gmail.com"><img height="24px" src="https://img.shields.io/badge/Email-%236633cc?style=flat-square&logo=Gmail&logoColor=white&color=003140&link=mailto:marksales.dev.eng@gmail.com"></a>
-       <img height="24px" src="https://img.shields.io/badge/Whatsapp-%236633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=003140&link="
+       <a href=""><img height="24px" src="https://img.shields.io/badge/Whatsapp-%236633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=003140&link=""></a>
+       <a href=""><img height="24px" src="https://img.shields.io/badge/Instagram-%236633cc?style=flat-square&logo=Instagram&logoColor=white&color=003140&link=""></a>
 </div>
-       <a href=""><img height="24px" src="https://img.shields.io/badge/Instagram-%236633cc?style=flat-square&logo=Instagram&logoColor=white&color=003140&link=mailto:marksales.dev.eng@gmail.com"></a>
 <br><br>
 <div align="center" float="left">
    <img width="49.5%" src="https://user-images.githubusercontent.com/95272518/152638376-4865c9a8-1e97-47e3-beeb-4339c9181d7b.gif">
