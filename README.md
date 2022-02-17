@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/95272518/152739445-4442d831-05ee-48fd-956d-82ea42f741ad.svg"><br><br>
+<img width="100%" src="https://user-images.githubusercontent.com/95272518/154397072-f60c9183-4a5c-4dd6-bc8e-a1f31fae9ad7.svg"><br><br>
 <h3>TECHNOLOGIES</h3>
 <!--<p>Programming and Design</p>-->
 <hr>
