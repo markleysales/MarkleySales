@@ -1,8 +1,8 @@
 <img width="100%" src="https://user-images.githubusercontent.com/95272518/154480833-fa04fcc2-cb98-4b65-a9fe-be962f9c85c4.svg"><br><br>
-<h3>TECHNOLOGIES</h3>
+<h3>TECHNOLOGIES<img align="right" width="140px" src="https://user-images.githubusercontent.com/95272518/155859578-17424d38-8114-4abf-b61e-2856be9413dd.svg"></h3>
 <!--<p>Programming and Design</p>-->
 <hr>
-<div align="center" float="left">
+<div float="left">
    <img width="50px" src="https://user-images.githubusercontent.com/95272518/152637034-113074fd-01ba-4263-b572-58382b250b40.svg">
    <img width="50px" src="https://user-images.githubusercontent.com/95272518/152637051-49416c82-98fc-45a6-9c3f-a8d53315347f.svg">
    <img width="50px" src="https://user-images.githubusercontent.com/95272518/152637055-b93b5f1d-1701-450a-8b37-e96f390cb62e.svg">
@@ -11,10 +11,10 @@
    <img width="50px" src="https://user-images.githubusercontent.com/95272518/152637067-69760f1b-31e1-4ad7-a2dd-978be0e19479.svg">
    <img width="50px" src="https://user-images.githubusercontent.com/95272518/152637068-f69a6109-a08d-4eee-8ca9-f55160df45c3.svg">
 </div>
-<h4 align="center">Estou constantemente estudando novas tecnologias.
+<h4>Estou constantemente estudando novas tecnologias.
    <br>I am constantly studying new technologies.</h4>
 <br>
-<h3 float="left">CONTACTS<img align="right" width="140px" src="https://user-images.githubusercontent.com/95272518/155859578-17424d38-8114-4abf-b61e-2856be9413dd.svg"></h3>
+<h3 float="left">CONTACTS<img align="right" width="140px" src="https://user-images.githubusercontent.com/95272518/155862357-3a5d36f8-fa29-4f0b-8d77-3c12baa84cfe.svg"></h3>
 <hr>
 <h4>
    💬 - Para entrar em contato, estou disponível em:<br>
