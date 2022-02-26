@@ -17,8 +17,8 @@
 <h3 float="left">CONTACTS<img align="right" width="120px" src="https://user-images.githubusercontent.com/95272518/155862357-3a5d36f8-fa29-4f0b-8d77-3c12baa84cfe.svg"></h3>
 <hr>
 <h4>
-   💬 - Para entrar em contato, estou disponível em:<br>
-   💬 - To get in contact, I'm available at:</h4>
+   Para entrar em contato, estou disponível em:<br>
+   To get in contact, I'm available at:</h4>
 <div float="left">
        <a href="https://www.linkedin.com/in/markley-sales/"> <img height="24px" src="https://img.shields.io/badge/LinkedIn-%236633cc?style=flat-square&logo=LinkedIn&color=003140&link=https://www.linkedin.com/in/markley-sales/"></a>
        <a href="mailto:marksales.dev.eng@gmail.com"><img height="24px" src="https://img.shields.io/badge/Email-%236633cc?style=flat-square&logo=Gmail&logoColor=white&color=003140&link=mailto:marksales.dev.eng@gmail.com"></a>
