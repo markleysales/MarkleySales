@@ -20,10 +20,10 @@
    Para entrar em contato, estou disponível em:<br>
    To get in contact, I'm available at:</h4>
 <div float="left">
-       <a href="https://www.linkedin.com/in/markley-sales/"> <img height="24px" src="https://img.shields.io/badge/LinkedIn-%236633cc?style=flat-square&logo=LinkedIn&color=003140&link=https://www.linkedin.com/in/markley-sales/"></a>
+       <h3><a href="https://www.linkedin.com/in/markley-sales/"> <img height="24px" src="https://img.shields.io/badge/LinkedIn-%236633cc?style=flat-square&logo=LinkedIn&color=003140&link=https://www.linkedin.com/in/markley-sales/"></a>
        <a href="mailto:marksales.dev.eng@gmail.com"><img height="24px" src="https://img.shields.io/badge/Email-%236633cc?style=flat-square&logo=Gmail&logoColor=white&color=003140&link=mailto:marksales.dev.eng@gmail.com"></a>
        <a href="https://wa.me/5591983367707"><img height="24px" src="https://img.shields.io/badge/Whatsapp-%236633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=003140&link=""></a>
-       <a href=""><img height="24px" src="https://img.shields.io/badge/Instagram-%236633cc?style=flat-square&logo=Instagram&logoColor=white&color=003140&link=""></a>
+       <a href=""><img height="24px" src="https://img.shields.io/badge/Instagram-%236633cc?style=flat-square&logo=Instagram&logoColor=white&color=003140&link=""></a></h3>
 </div>
 <br><br>
 <div align="center" float="left">
