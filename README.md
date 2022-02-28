@@ -9,8 +9,8 @@
    <img width="50px" src="https://user-images.githubusercontent.com/95272518/152637056-1278896a-a289-4147-abc3-83cdb497e4c9.svg">
    <img width="50px" src="https://user-images.githubusercontent.com/95272518/152637062-b2ff122f-96ce-402c-88d8-47b282b0ef31.svg">
    <img width="50px" src="https://user-images.githubusercontent.com/95272518/156064069-b2ac1bd2-9343-40de-b9ce-1c895afa73ca.svg">
-   <img width="50px" src="https://user-images.githubusercontent.com/95272518/156064097-8e3eb890-12cc-4ab7-bb85-94374545b7ef.svg">
-   <img width="50px" src="https://user-images.githubusercontent.com/95272518/152637067-69760f1b-31e1-4ad7-a2dd-978be0e19479.svg">
+   <img width="50px" src="https://user-images.githubusercontent.com/95272518/156070031-1f6a5c1b-d36f-457f-b656-8c81856aa41e.svg">
+   <img width="50px" src="https://user-images.githubusercontent.com/95272518/156070608-07f5821f-5a25-41d9-9b3e-3434ec015fbc.svg">
    <img width="50px" src="https://user-images.githubusercontent.com/95272518/152637068-f69a6109-a08d-4eee-8ca9-f55160df45c3.svg">
 </div>
 <h4>Estou constantemente estudando novas tecnologias.
