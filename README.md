@@ -2,6 +2,7 @@
 <h3>TECHNOLOGIES<img align="right" width="120px" src="https://user-images.githubusercontent.com/95272518/155859578-17424d38-8114-4abf-b61e-2856be9413dd.svg"></h3>
 <!--<p>Programming and Design</p>-->
 <hr>
+<h4>PROGRAMMING:<h4>
 <div float="left">
    <img width="50px" src="https://user-images.githubusercontent.com/95272518/152637034-113074fd-01ba-4263-b572-58382b250b40.svg">
    <img width="50px" src="https://user-images.githubusercontent.com/95272518/152637051-49416c82-98fc-45a6-9c3f-a8d53315347f.svg">
@@ -12,6 +13,12 @@
    <img width="50px" src="https://user-images.githubusercontent.com/95272518/156070031-1f6a5c1b-d36f-457f-b656-8c81856aa41e.svg">
    <img width="50px" src="https://user-images.githubusercontent.com/95272518/156070608-07f5821f-5a25-41d9-9b3e-3434ec015fbc.svg">
    <img width="50px" src="https://user-images.githubusercontent.com/95272518/152637068-f69a6109-a08d-4eee-8ca9-f55160df45c3.svg">
+</div>
+<h4>PROTOTYPING:</h4>
+<div  float="left">
+    <img width="50px" src="https://user-images.githubusercontent.com/95272518/156091753-77b7762b-2dff-4c53-a26d-cb02a7e97b39.svg">
+    <img width="50px" src="https://user-images.githubusercontent.com/95272518/156091760-eb29e784-db39-49fb-bbe1-e2dd26937d73.svg">
+    <img width="50px" src="https://user-images.githubusercontent.com/95272518/156091767-3424eef7-efb7-4c7b-a305-26696936072b.svg">
 </div>
 <h4>Estou constantemente estudando novas tecnologias.
    <br>I am constantly studying new technologies.</h4>
