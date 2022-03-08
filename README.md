@@ -1,5 +1,5 @@
 <img width="100%" src="https://user-images.githubusercontent.com/95272518/157147310-99af9b9a-0421-4b7a-a536-45452f59e3f1.svg"><br><br>
-<h3>ＴＥＣＨＮＯＬＯＧＩＥＳ<img align="right" width="120px" src="https://user-images.githubusercontent.com/95272518/155859578-17424d38-8114-4abf-b61e-2856be9413dd.svg"></h3>
+<h3>🇹 🇪 🇨 🇭 🇳 🇴 🇱 🇴 🇬 🇮 🇪 🇸 <img align="right" width="120px" src="https://user-images.githubusercontent.com/95272518/155859578-17424d38-8114-4abf-b61e-2856be9413dd.svg"></h3>
 <!--<p>Programming and Design</p>-->
 <hr>
 <div float="left">
@@ -16,7 +16,7 @@
 <h4>Estou constantemente estudando novas tecnologias.
    <br>I am constantly studying new technologies.</h4>
 <br>
-<h3 float="left">ＣＯＮＴＡＣＴＳ<img align="right" width="120px" src="https://user-images.githubusercontent.com/95272518/155862357-3a5d36f8-fa29-4f0b-8d77-3c12baa84cfe.svg"></h3>
+<h3 float="left">🇨 🇴 🇳 🇹 🇦 🇨 🇹 🇸 <img align="right" width="120px" src="https://user-images.githubusercontent.com/95272518/155862357-3a5d36f8-fa29-4f0b-8d77-3c12baa84cfe.svg"></h3>
 <hr>
 <h4>
    Para entrar em contato, estou disponível em:<br>
