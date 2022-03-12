@@ -16,7 +16,7 @@
 <h4>Estou constantemente estudando novas tecnologias.
    <br>I am constantly studying new technologies.</h4>
 <br>
-<h3 float="left">ᴄ ᴏ ɴ ᴛ ᴀ ᴄ ᴛ s<img align="right" width="100px" src="https://user-images.githubusercontent.com/95272518/158006764-bd272cd2-c11e-477f-b6dc-956a146effcc.svg"></h3>
+<h3 float="left">ᴄ ᴏ ɴ ᴛ ᴀ ᴄ ᴛ s<img align="right" width="100px" src="https://user-images.githubusercontent.com/95272518/158035507-84415eef-ad73-429f-974f-da0816c0874e.svg"></h3>
 <hr>
 <h4>
    Para entrar em contato, estou disponível em:<br>
