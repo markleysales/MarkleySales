@@ -1,5 +1,5 @@
 <img width="100%" src="https://user-images.githubusercontent.com/95272518/157562589-a1638d49-eb72-426b-bd6a-21b8b46f6a58.svg"><br><br>
-<h3>ᴛ ᴇ ᴄ ʜ ɴ ᴏ ʟ ᴏ ɢ ɪ ᴇ s<img align="right" width="100px" src="https://user-images.githubusercontent.com/95272518/158006760-6c5a7082-fcb3-4b0f-9ffb-1ad19062d3de.svg"></h3>
+<h3>ᴛ ᴇ ᴄ ʜ ɴ ᴏ ʟ ᴏ ɢ ɪ ᴇ s<img align="right" width="100px" src="https://user-images.githubusercontent.com/95272518/158034963-7680bc02-be87-47dc-a236-32a3ea07d877.svg"></h3>
 <!--<p>Programming and Design</p>-->
 <hr>
 <div float="left">
