@@ -1,4 +1,4 @@
-<img width="100%" src="https://user-images.githubusercontent.com/95272518/157562589-a1638d49-eb72-426b-bd6a-21b8b46f6a58.svg"><br><br>
+<img width="100%" src="https://user-images.githubusercontent.com/95272518/158085580-7aa76602-41a8-47ff-974f-46f8db8b30a7.svg"><br><br>
 <h3>ᴛ ᴇ ᴄ ʜ ɴ ᴏ ʟ ᴏ ɢ ɪ ᴇ s<img align="right" width="100px" src="https://user-images.githubusercontent.com/95272518/158034963-7680bc02-be87-47dc-a236-32a3ea07d877.svg"></h3>
 <!--<p>Programming and Design</p>-->
 <hr>
