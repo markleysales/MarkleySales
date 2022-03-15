@@ -13,8 +13,8 @@
    <img width="44px" src="https://user-images.githubusercontent.com/95272518/157561853-74358d8e-08f9-4d61-a2f2-853d4b79606e.svg">
    <img width="44px" src="https://user-images.githubusercontent.com/95272518/152637068-f69a6109-a08d-4eee-8ca9-f55160df45c3.svg"><br>
    <img width="44px" src="https://user-images.githubusercontent.com/95272518/158298455-e491737f-5806-4f6c-9bcb-1dbf09e80f7d.svg">
-   <img width="44px" src="https://user-images.githubusercontent.com/95272518/158299442-7e4952dd-ea82-44ae-af7e-b4936ed8f7dc.svg">
-   <img width="44px" src="https://user-images.githubusercontent.com/95272518/158299467-352514a5-e09c-4a61-9d80-fb0d4d5c7441.svg">
+   <img width="44px" src="https://user-images.githubusercontent.com/95272518/158449371-a584fe02-9fdf-44b2-8fe0-ed9cda7d8449.svg">
+   <img width="44px" src="https://user-images.githubusercontent.com/95272518/158449397-f292d91e-696c-42e7-997f-676128993c41.svg">
    <img width="44px" src="https://user-images.githubusercontent.com/95272518/158299482-1ce30469-a176-4bfa-9eb5-688db9da16f2.svg">
 </div>
 <h4>Estou constantemente estudando novas tecnologias.
