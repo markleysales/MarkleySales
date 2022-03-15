@@ -11,12 +11,17 @@
    <img width="44px" src="https://user-images.githubusercontent.com/95272518/157142683-eb1eba11-6f8a-45a5-9937-7364947026e4.svg">
    <img width="44px" src="https://user-images.githubusercontent.com/95272518/157159258-657d4452-fe65-4da9-a1b3-124d1d5e6a3a.svg">
    <img width="44px" src="https://user-images.githubusercontent.com/95272518/157561853-74358d8e-08f9-4d61-a2f2-853d4b79606e.svg">
-   <img width="44px" src="https://user-images.githubusercontent.com/95272518/152637068-f69a6109-a08d-4eee-8ca9-f55160df45c3.svg">
+   <img width="44px" src="https://user-images.githubusercontent.com/95272518/152637068-f69a6109-a08d-4eee-8ca9-f55160df45c3.svg"><br>
+   <img width="44px" src="https://user-images.githubusercontent.com/95272518/158298455-e491737f-5806-4f6c-9bcb-1dbf09e80f7d.svg">
+   <img width="44px" src="https://user-images.githubusercontent.com/95272518/158299442-7e4952dd-ea82-44ae-af7e-b4936ed8f7dc.svg">
+   <img width="44px" src="https://user-images.githubusercontent.com/95272518/158299467-352514a5-e09c-4a61-9d80-fb0d4d5c7441.svg">
+   <img width="44px" src="https://user-images.githubusercontent.com/95272518/158299482-1ce30469-a176-4bfa-9eb5-688db9da16f2.svg">
 </div>
 <h4>Estou constantemente estudando novas tecnologias.
    <br>I am constantly studying new technologies.</h4>
 <br>
 <h3 float="left">ᴄ ᴏ ɴ ᴛ ᴀ ᴄ ᴛ s<img align="right" width="78px" src="https://user-images.githubusercontent.com/95272518/158141971-5be947a0-491f-4127-a795-f80fb1419445.svg"></h3>
+
 <hr>
 <h4>
    Para entrar em contato, estou disponível em:<br>
