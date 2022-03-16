@@ -34,7 +34,7 @@
 <br><br>
 <div align="center" float="left">
    <img width="49.3%" src="https://user-images.githubusercontent.com/95272518/152638376-4865c9a8-1e97-47e3-beeb-4339c9181d7b.gif">
-   <img width="49.3%" src="https://user-images.githubusercontent.com/95272518/158514154-8b4f2586-bbee-4571-b433-5222549a369b.svg">
+   <img width="49.3%" src="https://user-images.githubusercontent.com/95272518/158514345-5178ab59-1df9-4138-a036-77d78686b96c.jpg">
 </div>
 
 
