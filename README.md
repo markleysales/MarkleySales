@@ -1,5 +1,5 @@
 <img width="100%" src="https://user-images.githubusercontent.com/95272518/158117982-670523cf-5694-4d9b-988f-959f58680d24.svg"><br><br>
-<h2>ᴛ ᴇ ᴄ ʜ ɴ ᴏ ʟ ᴏ ɢ ɪ ᴇ s<img align="right" width="78px" src="https://user-images.githubusercontent.com/95272518/158141866-8c164353-696c-4e3f-b680-ec8aecaddb9a.svg"></h2>
+<h2>ᴛ ᴇ ᴄ ʜ ɴ ᴏ ʟ ᴏ ɢ ɪ ᴇ s<img align="right" width="100px" src="https://user-images.githubusercontent.com/95272518/158141866-8c164353-696c-4e3f-b680-ec8aecaddb9a.svg"></h2>
 <!--<p>Programming and Design</p>-->
 <div float="left">
    <img width="50px" src="https://user-images.githubusercontent.com/95272518/152637034-113074fd-01ba-4263-b572-58382b250b40.svg">
@@ -20,7 +20,7 @@
    <br>I am constantly studying new technologies.</h4>
 <br>
 <h2 float="left">ᴄ ᴏ ɴ ᴛ ᴀ ᴄ ᴛ s
-   <img align="right" width="78px" src="https://user-images.githubusercontent.com/95272518/158141971-5be947a0-491f-4127-a795-f80fb1419445.svg">
+   <img align="right" width="100px" src="https://user-images.githubusercontent.com/95272518/158141971-5be947a0-491f-4127-a795-f80fb1419445.svg">
 </h2>
 <h4>
    Para entrar em contato, estou disponível em:<br>
