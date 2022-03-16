@@ -12,9 +12,9 @@
    <img width="44px" src="https://user-images.githubusercontent.com/95272518/157159258-657d4452-fe65-4da9-a1b3-124d1d5e6a3a.svg">
    <img width="44px" src="https://user-images.githubusercontent.com/95272518/157561853-74358d8e-08f9-4d61-a2f2-853d4b79606e.svg">
    <img width="44px" src="https://user-images.githubusercontent.com/95272518/152637068-f69a6109-a08d-4eee-8ca9-f55160df45c3.svg"><br>
-   <img width="44px" src="https://user-images.githubusercontent.com/95272518/158451760-e6f451d3-a93f-4e31-98a8-3a49a791b74a.svg">
-   <img width="44px" src="https://user-images.githubusercontent.com/95272518/158451776-e4953b38-e1bc-4c14-90e7-9b43d1452ecd.svg">
-   <img width="44px" src="https://user-images.githubusercontent.com/95272518/158451789-a204e45d-3a0b-4c85-8f45-3db32d781f1c.svg">
+   <img width="44px" src="https://user-images.githubusercontent.com/95272518/158505767-dac280c0-0ad8-4162-a9ed-9b69cd042fa5.svg">
+   <img width="44px" src="https://user-images.githubusercontent.com/95272518/158505521-d346cf3d-063a-442f-aace-b86bb7b5914b.svg">
+   <img width="44px" src="https://user-images.githubusercontent.com/95272518/158505535-60faffab-49a5-4ed9-810b-46c7f0069c3c.svg">
    <img width="44px" src="https://user-images.githubusercontent.com/95272518/158452093-b901e8ec-1307-48ce-9d2e-9ceddf8d25ac.svg">
 </div>
 <h4>Estou constantemente estudando novas tecnologias.
