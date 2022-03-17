@@ -4,6 +4,7 @@
 <div float="left">
    <img width="40px" src="https://user-images.githubusercontent.com/95272518/152637034-113074fd-01ba-4263-b572-58382b250b40.svg">
    <img width="40px" src="https://user-images.githubusercontent.com/95272518/152637051-49416c82-98fc-45a6-9c3f-a8d53315347f.svg">
+   <img width="40px" src="https://user-images.githubusercontent.com/95272518/158743203-c444fde1-5bef-4d3d-a0da-6571a96abeec.svg">
    <img width="40px" src="https://user-images.githubusercontent.com/95272518/152637055-b93b5f1d-1701-450a-8b37-e96f390cb62e.svg">
    <img width="40px" src="https://user-images.githubusercontent.com/95272518/152637056-1278896a-a289-4147-abc3-83cdb497e4c9.svg">
    <img width="40px" src="https://user-images.githubusercontent.com/95272518/152637062-b2ff122f-96ce-402c-88d8-47b282b0ef31.svg">
