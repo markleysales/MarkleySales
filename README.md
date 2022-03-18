@@ -1,6 +1,6 @@
 <img width="100%" src="https://user-images.githubusercontent.com/95272518/159095964-52c0aa38-8180-4c01-878c-d5d826096ef9.svg"><br><br>
 <h2>ᴛ ᴇ ᴄ ʜ ɴ ᴏ ʟ ᴏ ɢ ɪ ᴇ s
-   <img align="right" width="90px" src="https://user-images.githubusercontent.com/95272518/158730415-02334c15-322d-4823-a0d1-5dd55ed71a27.svg">
+   <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/158730415-02334c15-322d-4823-a0d1-5dd55ed71a27.svg">
 </h2>
 <!--<p>Programming and Design</p>-->
 <div float="left">
