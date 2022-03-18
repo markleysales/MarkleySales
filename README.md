@@ -13,9 +13,9 @@
    <img width="46px" src="https://user-images.githubusercontent.com/95272518/157142683-eb1eba11-6f8a-45a5-9937-7364947026e4.svg">
    <img width="46px" src="https://user-images.githubusercontent.com/95272518/157561853-74358d8e-08f9-4d61-a2f2-853d4b79606e.svg">
    <img width="46px" src="https://user-images.githubusercontent.com/95272518/152637068-f69a6109-a08d-4eee-8ca9-f55160df45c3.svg"><br>
-   <img width="46px" src="https://user-images.githubusercontent.com/95272518/159097816-c72372cb-1a27-4515-b8a3-cf4703aee822.svg">
-   <img width="46px" src="https://user-images.githubusercontent.com/95272518/159097856-211ced1b-bbeb-4ba2-8b64-9f6321c68c57.svg">
-   <img width="46px" src="https://user-images.githubusercontent.com/95272518/159097887-5aa72153-66a3-4788-8ed2-14d9370b18e5.svg">
+   <img width="46px" src="https://user-images.githubusercontent.com/95272518/159098073-1578bce2-4dd4-4a61-855f-7c52603ad743.svg">
+   <img width="46px" src="https://user-images.githubusercontent.com/95272518/159098095-276413d8-89e1-4574-ae74-fec07f70c1ec.svg">
+   <img width="46px" src="https://user-images.githubusercontent.com/95272518/159098106-f326c1ab-eaeb-4e51-819e-e2739809722d.svg">
    <img width="46px" src="https://user-images.githubusercontent.com/95272518/158452093-b901e8ec-1307-48ce-9d2e-9ceddf8d25ac.svg">
 </div>
 <h4>Estou constantemente estudando novas tecnologias.
