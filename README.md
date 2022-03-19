@@ -36,7 +36,7 @@
 <br><br>
 <div align="center" float="left">
    <img width="49.3%" src="https://user-images.githubusercontent.com/95272518/152638376-4865c9a8-1e97-47e3-beeb-4339c9181d7b.gif">
-   <img width="49.3%" src="https://user-images.githubusercontent.com/95272518/159093665-9c6d08e0-b737-4535-9096-397641dc44c2.svg">
+   <img width="49.3%" src="https://user-images.githubusercontent.com/95272518/159098677-34859cc8-082c-4428-8caf-57bc0496e41a.svg">
 </div>
 
 
