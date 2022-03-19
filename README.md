@@ -28,10 +28,10 @@
    Para entrar em contato, estou disponível em:<br>
    To get in contact, I'm available at:</h4>
 <div float="left">
-       <h3><a href="https://www.linkedin.com/in/markley-sales/"> <img height="24px" src="https://img.shields.io/badge/LinkedIn-%236633cc?style=flat-square&logo=LinkedIn&color=003140&link=https://www.linkedin.com/in/markley-sales/"></a>
-       <a href="mailto:marksales.dev.eng@gmail.com"><img height="24px" src="https://img.shields.io/badge/Email-%236633cc?style=flat-square&logo=Gmail&logoColor=white&color=003140&link=mailto:marksales.dev.eng@gmail.com"></a>
-       <a href="https://wa.me/5591983367707"><img height="24px" src="https://img.shields.io/badge/Whatsapp-%236633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=003140&link=""></a>
-       <a href=""><img height="24px" src="https://img.shields.io/badge/Instagram-%236633cc?style=flat-square&logo=Instagram&logoColor=white&color=003140&link=""></a></h3>
+       <a href="https://www.linkedin.com/in/markley-sales/"><img height="24px" src="https://user-images.githubusercontent.com/95272518/159136085-0b26ff6b-ad9b-470a-8d2a-b4cae4fd3e8c.svg"></a>
+       <a href="mailto:marksales.dev.eng@gmail.com"><img height="24px" src="https://user-images.githubusercontent.com/95272518/159136184-540a4118-c9e3-44e5-b040-e00333e3ac40.svg"></a>
+       <a href="https://wa.me/5591983367707"><img height="24px" src="https://user-images.githubusercontent.com/95272518/159136221-e55f7509-7092-406d-b20b-66ed8ee533d0.svg"></a>
+       <a href=""><img height="24px" src="https://user-images.githubusercontent.com/95272518/159136353-d1b3379a-ccf2-4017-a1cf-7686dde4f41d.svg"></a>
 </div>
 <br><br>
 <div align="center" float="left">
