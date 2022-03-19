@@ -11,9 +11,11 @@
    <img width="46px" src="https://user-images.githubusercontent.com/95272518/152637056-1278896a-a289-4147-abc3-83cdb497e4c9.svg">
    <img width="46px" src="https://user-images.githubusercontent.com/95272518/152637062-b2ff122f-96ce-402c-88d8-47b282b0ef31.svg">
    <img width="46px" src="https://user-images.githubusercontent.com/95272518/157142683-eb1eba11-6f8a-45a5-9937-7364947026e4.svg">
+   <img width="46px" src="https://user-images.githubusercontent.com/95272518/159140327-391d8aa5-64c6-485d-97ff-4b9e7519810b.svg">
    <img width="46px" src="https://user-images.githubusercontent.com/95272518/157561853-74358d8e-08f9-4d61-a2f2-853d4b79606e.svg">
    <img width="46px" src="https://user-images.githubusercontent.com/95272518/152637068-f69a6109-a08d-4eee-8ca9-f55160df45c3.svg"><br>
-   <img width="46px" src="https://user-images.githubusercontent.com/95272518/159098073-1578bce2-4dd4-4a61-855f-7c52603ad743.svg">
+   <img width="46px" src="https://user-images.githubusercontent.com/95272518/159140212-072a96a4-1ed4-4d38-bcb0-e9c4f432c567.svg">
+   <img width="46px" src="https://user-images.githubusercontent.com/95272518/159140198-52554eed-eb64-4b8b-80ec-5b65a7028e52.svg">
    <img width="46px" src="https://user-images.githubusercontent.com/95272518/159098095-276413d8-89e1-4574-ae74-fec07f70c1ec.svg">
    <img width="46px" src="https://user-images.githubusercontent.com/95272518/159098106-f326c1ab-eaeb-4e51-819e-e2739809722d.svg">
    <img width="46px" src="https://user-images.githubusercontent.com/95272518/158452093-b901e8ec-1307-48ce-9d2e-9ceddf8d25ac.svg">
