@@ -1,4 +1,4 @@
-<img width="100%" src="https://user-images.githubusercontent.com/95272518/159110923-f173db00-f490-421b-a641-668b19ff5a3b.gif"><br><br>
+<img width="100%" src="https://user-images.githubusercontent.com/95272518/159115373-05e38dec-d9ce-459c-9898-f71e2128b479.gif"><br><br>
 <h2>ᴛ ᴇ ᴄ ʜ ɴ ᴏ ʟ ᴏ ɢ ɪ ᴇ s
    <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096765-973af899-e649-475e-845a-5fb1f505f306.svg">
 </h2>
