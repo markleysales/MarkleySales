@@ -27,8 +27,7 @@
    <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096786-0c36b4ae-bd1a-4464-8903-4829168ebbd3.svg">
 </h2>
 <h4>
-   LinkedIn: markley-sales<br>
-   Instagram: mark__sales<br><br>
+   LinkedIn: markley-sales<br><br>
    marksales.dev.eng@gmail.com
 </h4>
        <!-- <a href="https://www.linkedin.com/in/markley-sales/"><img height="24px" src="https://user-images.githubusercontent.com/95272518/159136085-0b26ff6b-ad9b-470a-8d2a-b4cae4fd3e8c.svg"></a>
