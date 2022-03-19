@@ -26,10 +26,8 @@
 <h2 float="left">ᴄ ᴏ ɴ ᴛ ᴀ ᴄ ᴛ s
    <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096786-0c36b4ae-bd1a-4464-8903-4829168ebbd3.svg">
 </h2>
-<h4>
-   LinkedIn: markley-sales<br><br>
-   marksales.dev.eng@gmail.com
-</h4>
+<h4>LinkedIn: markley-sales<br>
+    marksales.dev.eng@gmail.com</h4>
        <!-- <a href="https://www.linkedin.com/in/markley-sales/"><img height="24px" src="https://user-images.githubusercontent.com/95272518/159136085-0b26ff6b-ad9b-470a-8d2a-b4cae4fd3e8c.svg"></a>
        <a href="mailto:marksales.dev.eng@gmail.com"><img height="24px" src="https://user-images.githubusercontent.com/95272518/159136184-540a4118-c9e3-44e5-b040-e00333e3ac40.svg"></a>
        <a href="https://wa.me/5591983367707"><img height="24px" src="https://user-images.githubusercontent.com/95272518/159136221-e55f7509-7092-406d-b20b-66ed8ee533d0.svg"></a>
