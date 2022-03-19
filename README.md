@@ -27,9 +27,9 @@
    <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096786-0c36b4ae-bd1a-4464-8903-4829168ebbd3.svg">
 </h2>
 <h4>
-   LinkedIn - <a href="https://www.linkedin.com/in/markley-sales/">linkedin.com/in/markley-sales</a><br>
-   Instagram - <a href="https://www.instagram.com/mark__sales/">instagram.com/mark__sales</a><br>
-   E-mail - <a href="mailto:marksales.dev.eng@gmail.com">marksales.dev.eng@gmail.com</a>
+   LinkedIn: markley-sales<br>
+   Instagram: mark__sales<br>
+   E-mail: marksales.dev.eng@gmail.com
 </h4>
        <!-- <a href="https://www.linkedin.com/in/markley-sales/"><img height="24px" src="https://user-images.githubusercontent.com/95272518/159136085-0b26ff6b-ad9b-470a-8d2a-b4cae4fd3e8c.svg"></a>
        <a href="mailto:marksales.dev.eng@gmail.com"><img height="24px" src="https://user-images.githubusercontent.com/95272518/159136184-540a4118-c9e3-44e5-b040-e00333e3ac40.svg"></a>
