@@ -9,7 +9,9 @@ There are no limits to advancement.
    <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096765-973af899-e649-475e-845a-5fb1f505f306.svg">
 </h2>
 <!--<p>Programming and Design</p>-->
-<div float="left">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markleysales&color=003140&layout=compact">
+<div float="right">
    <img width="46px" src="https://user-images.githubusercontent.com/95272518/158745924-a11fbe5c-2878-41d6-bf97-22c55db91509.svg">
    <img width="46px" src="https://user-images.githubusercontent.com/95272518/158745941-d3cc40b1-e0dc-452b-8ecd-55f32b7d2864.svg">
    <img width="46px" src="https://user-images.githubusercontent.com/95272518/158743203-c444fde1-5bef-4d3d-a0da-6571a96abeec.svg">
@@ -33,9 +35,9 @@ There are no limits to advancement.
    <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096786-0c36b4ae-bd1a-4464-8903-4829168ebbd3.svg">
 </h2>
 <div>
-   <a href="mailto:marksales.dev.eng@gmail.com"><img height="24px" src="https://img.shields.io/badge/marksales.dev.eng@gmail.com-%236633cc?style=flat-square&logo=Gmail&logoColor=white&color=003140&link=mailto:marksales.dev.eng@gmail.com"></a><br>
-   <a href="https://www.linkedin.com/in/markley-sales/"> <img height="24px" src="https://img.shields.io/badge/markley--sales-%236633?style=flat-square&logo=LinkedIn&logoColor=white&color=003140&link=https://www.linkedin.com/in/markley-sales/"></a><br>
-       <a href="https://www.instagram.com/mark__sales/"><img height="24px" src="https://img.shields.io/badge/mark__sales-%bebebecc?style=flat-square&logo=Instagram&logoColor=white&color=003140&link=mailto:marksales.dev.eng@gmail.com"></a>
+   <a href="https://www.linkedin.com/in/markley-sales/"> <img height="24px" src="https://img.shields.io/badge/LinkedIn-%236633?style=flat-square&logo=LinkedIn&logoColor=white&color=003140&link=https://www.linkedin.com/in/markley-sales/"></a>
+       <a href="https://www.instagram.com/mark__sales/"><img height="24px" src="https://img.shields.io/badge/Instagram-%bebebecc?style=flat-square&logo=Instagram&logoColor=white&color=003140&link=mailto:marksales.dev.eng@gmail.com"></a>
+      <a href="mailto:marksales.dev.eng@gmail.com"><img height="24px" src="https://img.shields.io/badge/Gmail-%236633cc?style=flat-square&logo=Gmail&logoColor=white&color=003140&link=mailto:marksales.dev.eng@gmail.com"></a>
 </div>
 <br><br>
 <div align="center" float="left">
