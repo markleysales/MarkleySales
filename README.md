@@ -19,7 +19,6 @@ There are no limits to advancement.
    <img width="40px" src="https://user-images.githubusercontent.com/95272518/152637056-1278896a-a289-4147-abc3-83cdb497e4c9.svg">
    <img width="40px" src="https://user-images.githubusercontent.com/95272518/152637062-b2ff122f-96ce-402c-88d8-47b282b0ef31.svg">
    <img width="40px" src="https://user-images.githubusercontent.com/95272518/157142683-eb1eba11-6f8a-45a5-9937-7364947026e4.svg">
-   <img width="40px" src="https://user-images.githubusercontent.com/95272518/159140327-391d8aa5-64c6-485d-97ff-4b9e7519810b.svg">
    <img width="40px" src="https://user-images.githubusercontent.com/95272518/157561853-74358d8e-08f9-4d61-a2f2-853d4b79606e.svg">
    <img width="40px" src="https://user-images.githubusercontent.com/95272518/152637068-f69a6109-a08d-4eee-8ca9-f55160df45c3.svg"><br>
    <img width="40px" src="https://user-images.githubusercontent.com/95272518/159140212-072a96a4-1ed4-4d38-bcb0-e9c4f432c567.svg">
