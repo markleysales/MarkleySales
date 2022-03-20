@@ -27,7 +27,7 @@
    <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096786-0c36b4ae-bd1a-4464-8903-4829168ebbd3.svg">
 </h2>
 <h4>
-<img width="240px" src="https://user-images.githubusercontent.com/95272518/159177010-36c6a05c-16b3-4342-bd00-2170b7497562.svg"><br>
+<img width="240px" src="https://user-images.githubusercontent.com/95272518/159177659-400678b5-4467-4850-9e07-2b21d6099b3f.svg"><br>
 Email: marksales.dev.eng@gmail.com
 </h4>
        <!-- <a href="https://www.linkedin.com/in/markley-sales/"><img height="24px" src="https://user-images.githubusercontent.com/95272518/159136085-0b26ff6b-ad9b-470a-8d2a-b4cae4fd3e8c.svg"></a>
