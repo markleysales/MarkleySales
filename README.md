@@ -12,8 +12,8 @@ There are no limits to advancement.
 <!--<p>Programming and Design</p>-->
 
 
-<div align="left">
-   <img width="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markleysales&color=003140&layout=compact">
+<div align="left" float="left">
+   <img width="240px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markleysales&color=003140&layout=compact">
    <img width="40px" src="https://user-images.githubusercontent.com/95272518/158745924-a11fbe5c-2878-41d6-bf97-22c55db91509.svg">
    <img width="40px" src="https://user-images.githubusercontent.com/95272518/158745941-d3cc40b1-e0dc-452b-8ecd-55f32b7d2864.svg">
    <img width="40px" src="https://user-images.githubusercontent.com/95272518/158743203-c444fde1-5bef-4d3d-a0da-6571a96abeec.svg">
