@@ -6,7 +6,7 @@ There are no limits to advancement.
 ```
 
 <br>
-<h2>💻/ ᴛ ᴇ ᴄ ʜ ɴ ᴏ ʟ ᴏ ɢ ɪ ᴇ s
+<h2>ᴛ ᴇ ᴄ ʜ ɴ ᴏ ʟ ᴏ ɢ ɪ ᴇ s 💻
    <!-- <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096765-973af899-e649-475e-845a-5fb1f505f306.svg"> -->
 </h2>
 <!--<p>Programming and Design</p>-->
@@ -33,7 +33,7 @@ There are no limits to advancement.
 <h4>Estou constantemente estudando novas tecnologias.<br>
     I am constantly studying new technologies.</h4>
 <br>
-<h2 float="left">💬/ ᴄ ᴏ ɴ ᴛ ᴀ ᴄ ᴛ s
+<h2 float="left">ᴄ ᴏ ɴ ᴛ ᴀ ᴄ ᴛ s 💬
    <!-- <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096786-0c36b4ae-bd1a-4464-8903-4829168ebbd3.svg"> -->
 </h2>
 <div>
