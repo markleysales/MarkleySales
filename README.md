@@ -7,13 +7,13 @@ There are no limits to advancement.
 
 <br>
 <h2>ᴛ ᴇ ᴄ ʜ ɴ ᴏ ʟ ᴏ ɢ ɪ ᴇ s
-   <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096765-973af899-e649-475e-845a-5fb1f505f306.svg">
+   <!-- <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096765-973af899-e649-475e-845a-5fb1f505f306.svg"> -->
 </h2>
 <!--<p>Programming and Design</p>-->
 
 
 <div align="left" float="left">
-   <img width="240px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markleysales&color=003140&layout=compact">
+   <img width="324px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markleysales&color=003140&layout=compact">
    <img width="40px" src="https://user-images.githubusercontent.com/95272518/158745924-a11fbe5c-2878-41d6-bf97-22c55db91509.svg">
    <img width="40px" src="https://user-images.githubusercontent.com/95272518/158745941-d3cc40b1-e0dc-452b-8ecd-55f32b7d2864.svg">
    <img width="40px" src="https://user-images.githubusercontent.com/95272518/158743203-c444fde1-5bef-4d3d-a0da-6571a96abeec.svg">
@@ -33,7 +33,7 @@ There are no limits to advancement.
     I am constantly studying new technologies.</h4>
 <br>
 <h2 float="left">ᴄ ᴏ ɴ ᴛ ᴀ ᴄ ᴛ s
-   <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096786-0c36b4ae-bd1a-4464-8903-4829168ebbd3.svg">
+   <!-- <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096786-0c36b4ae-bd1a-4464-8903-4829168ebbd3.svg"> -->
 </h2>
 <div>
    <a href="https://www.linkedin.com/in/markley-sales/"> <img height="24px" src="https://img.shields.io/badge/LinkedIn-%236633?style=flat-square&logo=LinkedIn&logoColor=white&color=003140&link=https://www.linkedin.com/in/markley-sales/"></a>
