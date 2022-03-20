@@ -2,7 +2,7 @@
 
 ```bash
 Sou acadêmico autodidata, amante cego por tecnologias de desenvolvimento e design. "Não há limites para o avanço"
-I'm a self-taught academic, blind lover of development technologies and design. "There are no limits to advancement"
+Im a self-taught academic, blind lover of development technologies and design. "There are no limits to advancement"
 
 ```
 
