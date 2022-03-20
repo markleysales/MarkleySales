@@ -1,4 +1,9 @@
 <img width="100%" src="https://user-images.githubusercontent.com/95272518/159115373-05e38dec-d9ce-459c-9898-f71e2128b479.gif"><br><br>
+
+```bash
+I am a self-taught student, blind lover of development and design technologies. I don't believe in limits.
+```
+
 <h2>ᴛ ᴇ ᴄ ʜ ɴ ᴏ ʟ ᴏ ɢ ɪ ᴇ s
    <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096765-973af899-e649-475e-845a-5fb1f505f306.svg">
 </h2>
