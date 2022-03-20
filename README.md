@@ -1,8 +1,11 @@
 <img width="100%" src="https://user-images.githubusercontent.com/95272518/159115373-05e38dec-d9ce-459c-9898-f71e2128b479.gif"><br><br>
 
 ```bash
-I am a self-taught student, blind lover of development and design technologies. 
-There are no limits to advancement.
+Sou acadêmico autodidata, amante cego por tecnologias de desenvolvimento e design. 
+"Não há limites para o avanço científico."
+I am a self-taught academic, blind lover of development and design technologies. 
+"There are no limits to scientific advancement."
+
 ```
 
 <br>
