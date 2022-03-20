@@ -43,7 +43,6 @@ I'm a self-taught academic, blind lover of development technologies and design. 
        <a href="https://www.instagram.com/mark__sales/"><img height="24px" src="https://img.shields.io/badge/Instagram-%bebebecc?style=flat-square&logo=Instagram&logoColor=white&color=003140&link=https://www.instagram.com/mark__sales/"></a>
       <a href="mailto:marksales.dev.eng@gmail.com"><img height="24px" src="https://img.shields.io/badge/Gmail-%236633cc?style=flat-square&logo=Gmail&logoColor=white&color=003140&link=mailto:marksales.dev.eng@gmail.com"></a>
     <a href="https://api.whatsapp.com/send?phone=5591983367707&text=Hello%20Markley!%20I%20visited%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20talk%20about%20it."><img height="24px" src="https://img.shields.io/badge/Whatsapp-%236633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=003140&link=https://api.whatsapp.com/send?phone=5591983367707&text=Hello%20Markley!%20I%20visited%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20talk%20about%20it."></a>
-    <img height="24px" align="right" src="https://komarev.com/ghpvc/?username=markleysales">
 </div>
 <br><br>
 <div align="center" float="left">
