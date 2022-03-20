@@ -30,8 +30,8 @@ There are no limits to advancement.
    <img width="40px" src="https://user-images.githubusercontent.com/95272518/159098106-f326c1ab-eaeb-4e51-819e-e2739809722d.svg">
    <img width="40px" src="https://user-images.githubusercontent.com/95272518/158452093-b901e8ec-1307-48ce-9d2e-9ceddf8d25ac.svg">
 </div>
-<h4>Estou constantemente estudando novas tecnologias.<br>
-    I am constantly studying new technologies.</h4>
+<h5>Estou constantemente estudando novas tecnologias.<br>
+    I am constantly studying new technologies.</h5>
 <br>
 <h2 float="left">ᴄ ᴏ ɴ ᴛ ᴀ ᴄ ᴛ s 💬
    <!-- <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096786-0c36b4ae-bd1a-4464-8903-4829168ebbd3.svg"> -->
