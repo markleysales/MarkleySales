@@ -33,9 +33,9 @@ There are no limits to advancement.
    <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096786-0c36b4ae-bd1a-4464-8903-4829168ebbd3.svg">
 </h2>
 <div>
-   <a href="mailto:marksales.dev.eng@gmail.com"><img height="24px" src="https://img.shields.io/badge/marksales.dev.eng@gmail.com-%236633cc?style=flat-square&logo=Gmail&logoColor=white&color=AC6045&link=mailto:marksales.dev.eng@gmail.com"></a>
-   <a href="https://www.linkedin.com/in/markley-sales/"> <img height="24px" src="https://img.shields.io/badge/markley--sales-%236633?style=flat-square&logo=LinkedIn&logoColor=white&color=AC6045&link=https://www.linkedin.com/in/markley-sales/"></a>
-       <a href="https://www.instagram.com/mark__sales/"><img height="24px" src="https://img.shields.io/badge/mark__sales-%bebebecc?style=flat-square&logo=Instagram&logoColor=white&color=AC6045&link=mailto:marksales.dev.eng@gmail.com"></a>
+   <a href="mailto:marksales.dev.eng@gmail.com"><img height="24px" src="https://img.shields.io/badge/marksales.dev.eng@gmail.com-%236633cc?style=flat-square&logo=Gmail&logoColor=white&color=003140&link=mailto:marksales.dev.eng@gmail.com"></a><br>
+   <a href="https://www.linkedin.com/in/markley-sales/"> <img height="24px" src="https://img.shields.io/badge/markley--sales-%236633?style=flat-square&logo=LinkedIn&logoColor=white&color=003140&link=https://www.linkedin.com/in/markley-sales/"></a><br>
+       <a href="https://www.instagram.com/mark__sales/"><img height="24px" src="https://img.shields.io/badge/mark__sales-%bebebecc?style=flat-square&logo=Instagram&logoColor=white&color=003140&link=mailto:marksales.dev.eng@gmail.com"></a>
 </div>
 <br><br>
 <div align="center" float="left">
