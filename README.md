@@ -6,7 +6,7 @@ Im a self-taught academic, blind lover of development technologies and design. "
 
 ```
 
-<sup><img height="20px" align="right" src="https://komarev.com/ghpvc/?username=markleysales"><sup>
+<sup><img height="20px" align="right" src="https://komarev.com/ghpvc/?username=markleysales&style=flat"><sup>
 <br>
 <h2>ᴛ ᴇ ᴄ ʜ ɴ ᴏ ʟ ᴏ ɢ ɪ ᴇ s <!-- 💻 -->
    <!-- <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096765-973af899-e649-475e-845a-5fb1f505f306.svg"> -->
