@@ -40,8 +40,8 @@ Im a self-taught academic, blind lover of development technologies and design. "
 </h2>
 <div>
       <a href="mailto:marksales.dev.eng@gmail.com"><img height="24px" src="https://img.shields.io/badge/Gmail-%236633cc?style=flat&logo=Gmail&logoColor=white&color=003140"></a>
-     <a href="https://www.behance.net/markleysales"><img height="24px" src="https://img.shields.io/badge/Behance-%bebebecc?style=flat&logo=Behance&logoColor=white&color=003140"></a>
    <a href="https://www.linkedin.com/in/markley-sales/"> <img height="24px" src="https://img.shields.io/badge/LinkedIn-%236633?style=flat&logo=LinkedIn&logoColor=white&color=003140"></a>
+        <a href="https://www.behance.net/markleysales"><img height="24px" src="https://img.shields.io/badge/Behance-%bebebecc?style=flat&logo=Behance&logoColor=white&color=003140"></a>
        <a href="https://www.instagram.com/mark__sales/"><img height="24px" src="https://img.shields.io/badge/Instagram-%bebebecc?style=flat&logo=Instagram&logoColor=white&color=003140"></a>
     <a href="https://api.whatsapp.com/send?phone=5591983367707&text=Hello%20Markley!%20I%20visited%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20talk%20about%20it."><img height="24px" src="https://img.shields.io/badge/Whatsapp-%236633cc?&logo=Whatsapp&logoColor=white&color=003140&style=flat"></a>
      <a href="https://drive.google.com/u/0/uc?id=19uQDvVbHGlUu1pRvd741L96jIg1blAOT&export=download"><img align="right" height="20px" src="https://img.shields.io/badge/⬇ Download CV-%236633cc?&logoColor=white&color=0E7FC0&style=flat"></a>
