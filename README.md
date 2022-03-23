@@ -7,13 +7,15 @@ Im a self-taught academic, blind lover of development technologies and design. "
 ```
 
 <sup><img height="20px" align="right" src="https://komarev.com/ghpvc/?username=markleysales&style=flat"><sup>
+   
+   
 <br>
+   
+   
 <h2>ᴛ ᴇ ᴄ ʜ ɴ ᴏ ʟ ᴏ ɢ ɪ ᴇ s <!-- 💻 -->
    <!-- <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096765-973af899-e649-475e-845a-5fb1f505f306.svg"> -->
 </h2>
 <!--<p>Programming and Design</p>-->
-
-
 <div align="left" float="left">
    <img width="320px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markleysales&color=003140&layout=compact">
    <img width="40px" src="https://user-images.githubusercontent.com/95272518/158745924-a11fbe5c-2878-41d6-bf97-22c55db91509.svg">
@@ -35,6 +37,8 @@ Im a self-taught academic, blind lover of development technologies and design. "
 <h5>Estou constantemente estudando novas tecnologias.<br>
     I am constantly studying new technologies.</h5>
 <br>
+   
+   
 <h2 float="left">ᴄ ᴏ ɴ ᴛ ᴀ ᴄ ᴛ s <!-- 💬 -->
    <!-- <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096786-0c36b4ae-bd1a-4464-8903-4829168ebbd3.svg"> -->
 </h2>
@@ -45,9 +49,12 @@ Im a self-taught academic, blind lover of development technologies and design. "
        <a href="https://www.instagram.com/mark__sales/"><img height="24px" src="https://img.shields.io/badge/Instagram-%bebebecc?style=flat&logo=Instagram&logoColor=white&color=003140"></a>
     <a href="https://api.whatsapp.com/send?phone=5591983367707&text=Hello%20Markley!%20I%20visited%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20talk%20about%20it."><img height="24px" src="https://img.shields.io/badge/Whatsapp-%236633cc?&logo=Whatsapp&logoColor=white&color=003140&style=flat"></a>
      <a href="https://drive.google.com/u/0/uc?id=19uQDvVbHGlUu1pRvd741L96jIg1blAOT&export=download"><img align="right" height="20px" src="https://img.shields.io/badge/⬇ Download CV-%236633cc?&logoColor=white&color=097BBB&style=flat"></a>
-   
 </div>
+   
+   
 <br><br>
+   
+   
 <div align="center" float="left">
    <img width="49.3%" src="https://user-images.githubusercontent.com/95272518/152638376-4865c9a8-1e97-47e3-beeb-4339c9181d7b.gif">
    <img width="49.3%" src="https://user-images.githubusercontent.com/95272518/159098677-34859cc8-082c-4428-8caf-57bc0496e41a.svg">
@@ -57,6 +64,18 @@ Im a self-taught academic, blind lover of development technologies and design. "
 
 
 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
 <!--
 **MarkleySales/MarkleySales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
