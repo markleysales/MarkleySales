@@ -1,5 +1,5 @@
 <!-- --README MADE BY MARKLEY SALES!--README MADE BY MARKLEY SALES!-- -->
-<img width="100%" src="https://user-images.githubusercontent.com/95272518/160535594-248c1649-e001-447b-a649-304cc7de0167.gif"><br>
+<img width="100%" src="https://user-images.githubusercontent.com/95272518/160535837-25ef3b6b-ee94-4251-8e85-49af5c944399.gif"><br>
 
 ```bash
 Sou acadêmico autodidata, amante cego por tecnologias de desenvolvimento e design. "Não há limites para o avanço."
