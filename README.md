@@ -30,7 +30,7 @@ Im a self-taught academic, blind lover of development technologies and design. "
    <img width="42px" src="https://user-images.githubusercontent.com/95272518/157561853-74358d8e-08f9-4d61-a2f2-853d4b79606e.svg">
    <img width="42px" src="https://user-images.githubusercontent.com/95272518/152637068-f69a6109-a08d-4eee-8ca9-f55160df45c3.svg"><br>
    <img width="42px" src="https://user-images.githubusercontent.com/95272518/159140212-072a96a4-1ed4-4d38-bcb0-e9c4f432c567.svg">
-   <img width="42px" src="https://user-images.githubusercontent.com/95272518/160720676-148ce365-629b-4a93-a709-d56e21f9683f.svg">
+   <img width="42px" src="https://user-images.githubusercontent.com/95272518/160720817-1f7814bd-81a5-437b-914a-d2d8204e3b0f.svg">
    <img width="42px" src="https://user-images.githubusercontent.com/95272518/159140198-52554eed-eb64-4b8b-80ec-5b65a7028e52.svg">
    <img width="42x" src="https://user-images.githubusercontent.com/95272518/159098095-276413d8-89e1-4574-ae74-fec07f70c1ec.svg">
    <img width="42px" src="https://user-images.githubusercontent.com/95272518/159098106-f326c1ab-eaeb-4e51-819e-e2739809722d.svg">
