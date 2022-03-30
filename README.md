@@ -4,11 +4,9 @@
 >Sou acadêmico autodidata, amante cego por tecnologias de desenvolvimento e design. "Não há limites para o avanço."<br>
 >Im a self-taught academic, blind lover of development technologies and design. "There are no limits to advancement."
 
-<sup><img height="20px" align="right" src="https://komarev.com/ghpvc/?username=markleysales&style=flat"><sup>
-   
+<sup><img height="20px" align="right" src="https://komarev.com/ghpvc/?username=markleysales&style=flat&color=8D5FD3"><sup>
    
 <br>
-   
    
 <h2>ᴛ ᴇ ᴄ ʜ ɴ ᴏ ʟ ᴏ ɢ ɪ ᴇ s <!-- 💻 -->
    <!-- <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096765-973af899-e649-475e-845a-5fb1f505f306.svg"> -->
@@ -37,7 +35,6 @@
     I am constantly studying new technologies.</h5>
 <br>
    
-   
 <h2 float="left">ᴄ ᴏ ɴ ᴛ ᴀ ᴄ ᴛ s <!-- 💬 -->
    <!-- <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096786-0c36b4ae-bd1a-4464-8903-4829168ebbd3.svg"> -->
 </h2>
@@ -47,12 +44,10 @@
    <a target="_blank" rel="noreferrer noopener" href="mailto:marksales.dev.eng@gmail.com"><img height="24px" src="https://img.shields.io/badge/Gmail-%236633cc?style=flat&logo=Gmail&logoColor=white&color=003140"></a>
    <a target="_blank" rel="noreferrer noopener" href="https://www.instagram.com/mark__sales/"><img height="24px" src="https://img.shields.io/badge/Instagram-%bebebecc?style=flat&logo=Instagram&logoColor=white&color=003140"></a>
    <a target="_blank" rel="noreferrer noopener" href="https://api.whatsapp.com/send?phone=5591983367707&text=Hello%20Markley!%20I%20visited%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20talk%20about%20it."><img height="24px" src="https://img.shields.io/badge/Whatsapp-%236633cc?&logo=Whatsapp&logoColor=white&color=003140&style=flat"></a>
-     <a href="https://drive.google.com/u/0/uc?id=19uQDvVbHGlUu1pRvd741L96jIg1blAOT&export=download"><img align="right" height="20px" src="https://img.shields.io/badge/⇓ Download CV-%236633cc?&logoColor=white&color=097BBB&style=flat"></a>
+     <a href="https://drive.google.com/u/0/uc?id=19uQDvVbHGlUu1pRvd741L96jIg1blAOT&export=download"><img align="right" height="20px" src="https://img.shields.io/badge/⇓ Download CV-%236633cc?&logoColor=white&color=8D5FD3&style=flat"></a>
 </div>
    
-   
 <br><br>
-   
    
 <div align="center" float="left">
    <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/152638376-4865c9a8-1e97-47e3-beeb-4339c9181d7b.gif">
