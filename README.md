@@ -30,9 +30,9 @@
    <img width="40x" src="https://user-images.githubusercontent.com/95272518/159098095-276413d8-89e1-4574-ae74-fec07f70c1ec.svg">
    <img width="40px" src="https://user-images.githubusercontent.com/95272518/159098106-f326c1ab-eaeb-4e51-819e-e2739809722d.svg">
    <img width="40px" src="https://user-images.githubusercontent.com/95272518/158452093-b901e8ec-1307-48ce-9d2e-9ceddf8d25ac.svg">
-</div>
-<h5>Estou constantemente estudando novas tecnologias.<br>
-    I am constantly studying new technologies.</h5>
+</div><br>
+<p>Estou constantemente estudando novas tecnologias.<br>
+    I am constantly studying new technologies.</p>
 <br>
    
 <h2 float="left">ᴄ ᴏ ɴ ᴛ ᴀ ᴄ ᴛ s <!-- 💬 -->
