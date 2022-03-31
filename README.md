@@ -1,8 +1,8 @@
 <!-- --README MADE BY MARKLEY SALES!--README MADE BY MARKLEY SALES!-- -->
 <img width="100%" src="https://user-images.githubusercontent.com/95272518/160538524-d5ada438-7fc6-473d-bb27-e29f1e41a0db.svg"><br><br>
 
->Sou acadêmico autodidata, amante cego por tecnologias de desenvolvimento e design gráfico. "Não há limites para o avanço."<br>
->Im a self-taught academic, blind lover of development technologies and graphic design. "There are no limits to advancement."
+>Sou acadêmico autodidata, amante cego por tecnologias de desenvolvimento, arquitetura de dados e design gráfico.<br>
+>I'm a self-taught academic, blind lover of development technologies, data architecture and graphic design.
 
 <sub><img height="20px" align="right" src="https://komarev.com/ghpvc/?username=markleysales&style=flat&color=8D5FD3"></sub>
    
