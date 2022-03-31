@@ -4,7 +4,7 @@
 >Sou acadêmico autodidata, amante cego por tecnologias de desenvolvimento e design. "Não há limites para o avanço."<br>
 >Im a self-taught academic, blind lover of development technologies and design. "There are no limits to advancement."
 
-<sup><img height="20px" align="right" src="https://komarev.com/ghpvc/?username=markleysales&style=flat&color=8D5FD3"><sup>
+<sub><img height="20px" align="right" src="https://komarev.com/ghpvc/?username=markleysales&style=flat&color=8D5FD3"></sub>
    
 <br>
    
