@@ -5,7 +5,6 @@
 >I'm a self-taught academic, blind lover of development technologies, data architecture and graphic design.
 
 <sub><img height="20px" align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales&count_bg=%238D5FD3&title_bg=%238D5FD3&icon=myspace.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false"></sub>
-   
 <br>
    
 <h2>ᴛ ᴇ ᴄ ʜ ɴ ᴏ ʟ ᴏ ɢ ɪ ᴇ s <!-- 💻 -->
@@ -13,7 +12,7 @@
 </h2>
 <!--<p>Programming and Design</p>-->
 <div align="left" float="left">
-   <img width="320px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markleysales&color=003140&layout=compact">
+   <img width="360px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markleysales&color=003140&layout=compact">
    <img width="38px" src="https://user-images.githubusercontent.com/95272518/158745924-a11fbe5c-2878-41d6-bf97-22c55db91509.svg">
    <img width="38px" src="https://user-images.githubusercontent.com/95272518/158745941-d3cc40b1-e0dc-452b-8ecd-55f32b7d2864.svg">
    <img width="38px" src="https://user-images.githubusercontent.com/95272518/158743203-c444fde1-5bef-4d3d-a0da-6571a96abeec.svg">
@@ -25,7 +24,7 @@
    <img width="38px" src="https://user-images.githubusercontent.com/95272518/159185407-660ba0b6-f3c4-4247-bf01-02e84561aca5.svg"><br>
    <img width="38px" src="https://user-images.githubusercontent.com/95272518/157561853-74358d8e-08f9-4d61-a2f2-853d4b79606e.svg">
    <img width="38px" src="https://user-images.githubusercontent.com/95272518/152637068-f69a6109-a08d-4eee-8ca9-f55160df45c3.svg">
-    <img width="38px" src="https://user-images.githubusercontent.com/95272518/161620692-0c85bed3-92fc-4cf9-a47c-3aafe2061d74.svg"><br>
+   <img width="38px" src="https://user-images.githubusercontent.com/95272518/161620692-0c85bed3-92fc-4cf9-a47c-3aafe2061d74.svg"><br>
    <img width="38px" src="https://user-images.githubusercontent.com/95272518/159140212-072a96a4-1ed4-4d38-bcb0-e9c4f432c567.svg">
    <img width="38px" src="https://user-images.githubusercontent.com/95272518/160720817-1f7814bd-81a5-437b-914a-d2d8204e3b0f.svg">
    <img width="38px" src="https://user-images.githubusercontent.com/95272518/159140198-52554eed-eb64-4b8b-80ec-5b65a7028e52.svg">
