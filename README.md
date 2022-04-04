@@ -1,5 +1,5 @@
 <!-- --README MADE BY MARKLEY SALES!--README MADE BY MARKLEY SALES!-- -->
-<img width="100%" src="https://user-images.githubusercontent.com/95272518/161629227-fc6ad652-41e9-47f7-a4fe-2f5dcb933841.svg"><br>
+<img width="100%" src="https://user-images.githubusercontent.com/95272518/161636405-735a5a66-66d7-492a-a7db-6fa43bbf6826.svg"><br>
 
 >Sou acadêmico autodidata, amante cego por tecnologias de desenvolvimento, arquitetura de dados e design gráfico.<br>
 >I'm a self-taught academic, blind lover of development technologies, data architecture and graphic design.
