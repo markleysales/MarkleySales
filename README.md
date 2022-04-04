@@ -4,7 +4,7 @@
 >Sou acadêmico autodidata, amante cego por tecnologias de desenvolvimento, arquitetura de dados e design gráfico.<br>
 >I'm a self-taught academic, blind lover of development technologies, data architecture and graphic design.
 
-<sub><img height="20px" align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales&count_bg=%238D5FD3&title_bg=%238D5FD3&icon=myspace.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"></sub>
+<sub><img height="20px" align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales&count_bg=%238D5FD3&title_bg=%238D5FD3&icon=myspace.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false"></sub>
    
 <br>
    
