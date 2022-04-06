@@ -12,7 +12,7 @@
 </h2>
 <!--<p>Programming and Design</p>-->
 <div align="left" float="left">
-   <img width="356px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markleysales&color=003140&layout=compact">
+   <img width="320px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markleysales&color=003140&layout=compact">
    <img width="38px" src="https://user-images.githubusercontent.com/95272518/158745924-a11fbe5c-2878-41d6-bf97-22c55db91509.svg">
    <img width="38px" src="https://user-images.githubusercontent.com/95272518/158745941-d3cc40b1-e0dc-452b-8ecd-55f32b7d2864.svg">
    <img width="38px" src="https://user-images.githubusercontent.com/95272518/162052504-21911b4c-3379-442d-ac4f-def70d053737.svg">
