@@ -1,5 +1,5 @@
 <!-- --README MADE BY MARKLEY SALES!--README MADE BY MARKLEY SALES!-- -->
-<img width="100%" src="https://user-images.githubusercontent.com/95272518/161985506-6bb46b3c-45c6-4bda-9651-f8284d243aca.svg"><br>
+<img width="100%" src="https://user-images.githubusercontent.com/95272518/161986577-ce16c2e6-f7b8-49bd-8766-a1d12bea5d95.svg"><br>
 
 >Especialista em tecnologias de desenvolvimento, arquitetura de dados, design gráfico e metodologias ágeis.<br>
 >Blind lover of development technologies, data architecture, graphic design and agile methodologies.
