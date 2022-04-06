@@ -1,7 +1,7 @@
 <!-- --README MADE BY MARKLEY SALES!--README MADE BY MARKLEY SALES!-- -->
-<img width="100%" src="https://user-images.githubusercontent.com/95272518/161636681-0f8e790f-0313-4656-9c63-b3a1caffd524.svg"><br>
+<img width="100%" src="https://user-images.githubusercontent.com/95272518/161985506-6bb46b3c-45c6-4bda-9651-f8284d243aca.svg"><br>
 
->Amante cego por tecnologias de desenvolvimento, arquitetura de dados, design gráfico e metodologias ágeis.<br>
+>Especialista em tecnologias de desenvolvimento, arquitetura de dados, design gráfico e metodologias ágeis.<br>
 >Blind lover of development technologies, data architecture, graphic design and agile methodologies.
 
 <sub><img height="20px" align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales&count_bg=%238D5FD3&title_bg=%238D5FD3&icon=myspace.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false"></sub>
