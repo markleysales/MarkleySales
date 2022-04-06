@@ -31,12 +31,6 @@
    <img width="38px" src="https://user-images.githubusercontent.com/95272518/162049685-b2c5fb90-17fb-48b6-b9ca-140c2f4276aa.svg">
    <img width="38px" src="https://user-images.githubusercontent.com/95272518/162050974-facc632c-5db7-4180-98d2-966e3b643b6e.svg">
    <img width="38px" src="https://user-images.githubusercontent.com/95272518/162051257-09cb309e-1f6e-46c3-a2f6-cf21a9f6295f.svg"><br>
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/159140212-072a96a4-1ed4-4d38-bcb0-e9c4f432c567.svg">
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/160720817-1f7814bd-81a5-437b-914a-d2d8204e3b0f.svg">
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/159140198-52554eed-eb64-4b8b-80ec-5b65a7028e52.svg">
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/159098095-276413d8-89e1-4574-ae74-fec07f70c1ec.svg">
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/159098106-f326c1ab-eaeb-4e51-819e-e2739809722d.svg">
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/158452093-b901e8ec-1307-48ce-9d2e-9ceddf8d25ac.svg">
 </div><br>
 <p>Estou constantemente estudando novas tecnologias.<br>
     I am constantly studying new technologies.</p>
