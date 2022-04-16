@@ -5,7 +5,7 @@
 >Professional in agile technologies for software development, data architecture, microservices and graphic design.
 
 <sub><img height="20px" align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales&count_bg=%23003140&title_bg=%23003140&icon=myspace.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false">
- <img align="right" height="20px" src="https://img.shields.io/badge/GitLab-%236633?style=flat&logo=GitLab&color=003140">
+ <a href=""><img align="right" height="20px" src="https://img.shields.io/badge/GitLab-%236633?style=flat&logo=GitLab&color=003140"></a>
  <a href="https://drive.google.com/u/0/uc?id=1xvPcmCghc-CmB8sBGdkWRtCWlNqNJf89&export=download"><img align="right" height="20px" src="https://img.shields.io/badge/⇩ Download CV-%236633cc?&color=003140&style=flat"></a></sub>
 <br>
    
