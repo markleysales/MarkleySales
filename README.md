@@ -4,7 +4,9 @@
 >Profissional em tecnologias ágeis para desenvolvimento de software, arquitetura de dados , microsserviços e design gráfico.<br>
 >Professional in agile technologies for software development, data architecture, microservices and graphic design.
 
-<sub><img height="20px" align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales&count_bg=%23003140&title_bg=%23003140&icon=myspace.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false">
+<sub>
+ <a href="https://drive.google.com/u/0/uc?id=1xvPcmCghc-CmB8sBGdkWRtCWlNqNJf89&export=download"><img align="left" height="20px" src="https://img.shields.io/badge/Download CV-%236633cc?&color=003140&style=flat"></a>
+ <img height="20px" align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales&count_bg=%23003140&title_bg=%23003140&icon=myspace.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false">
  <a href="https://gitlab.com/markleysalesofc"><img align="right" height="20px" src="https://img.shields.io/badge/GitLab-%236633?style=flat&logo=GitLab&color=003140"></a></sub>
 <br>
    
@@ -41,13 +43,12 @@
 <h2 float="left">ᴄ ᴏ ɴ ᴛ ᴀ ᴄ ᴛ s <!-- 💬 -->
    <!-- <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096786-0c36b4ae-bd1a-4464-8903-4829168ebbd3.svg"> -->
 </h2>
-<a href="https://drive.google.com/u/0/uc?id=1xvPcmCghc-CmB8sBGdkWRtCWlNqNJf89&export=download"><img align="right" height="20px" src="https://img.shields.io/badge/Download CV-%236633cc?&color=003140&style=flat"></a>
 <div>
-   <p>Email: marksales.dev.eng@gmail.com</p>
-   <a href="https://www.linkedin.com/in/markley-sales/"> <img height="24px" src="https://img.shields.io/badge/LinkedIn-%236633?style=flat&logo=LinkedIn&logoColor=white&color=003140"></a>
-   <a href="https://www.behance.net/markleysales"><img height="24px" src="https://img.shields.io/badge/Behance-%bebebecc?style=flat&logo=Behance&logoColor=white&color=003140"></a>
-   <a href="https://www.instagram.com/mark_sales.it/"><img height="24px" src="https://img.shields.io/badge/Instagram-%bebebecc?style=flat&logo=Instagram&logoColor=white&color=003140"></a>
-   <a href="https://api.whatsapp.com/send?phone=5591983367707&text=Hello%20Markley!%20I%20visited%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20talk%20about%20it."><img height="24px" src="https://img.shields.io/badge/Whatsapp-%236633cc?&logo=Whatsapp&logoColor=white&color=003140&style=flat"></a>
+   Email: marksales.dev.eng@gmail.com
+   <a href="https://www.linkedin.com/in/markley-sales/"> <img align="right" height="24px" src="https://img.shields.io/badge/LinkedIn-%236633?style=flat&logo=LinkedIn&logoColor=white&color=003140"></a>
+   <a href="https://www.behance.net/markleysales"><img align="right" height="24px" src="https://img.shields.io/badge/Behance-%bebebecc?style=flat&logo=Behance&logoColor=white&color=003140"></a>
+   <a href="https://www.instagram.com/mark_sales.it/"><img align="right" height="24px" src="https://img.shields.io/badge/Instagram-%bebebecc?style=flat&logo=Instagram&logoColor=white&color=003140"></a>
+   <a href="https://api.whatsapp.com/send?phone=5591983367707&text=Hello%20Markley!%20I%20visited%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20talk%20about%20it."><img align="right" height="24px" src="https://img.shields.io/badge/Whatsapp-%236633cc?&logo=Whatsapp&logoColor=white&color=003140&style=flat"></a>
 </div>
    
 <br><br>
