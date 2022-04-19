@@ -1,5 +1,5 @@
 <!-- --README MADE BY MARKLEY SALES!--README MADE BY MARKLEY SALES!-- -->
-<img align="center" width="100%" src="https://user-images.githubusercontent.com/95272518/164078846-bd05dd18-62b5-449b-9338-7746886730ca.svg"><br>
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/95272518/164079210-5f3145c8-68c3-45ce-9514-62e4c2f8899f.svg"><br>
 
 >Profissional em tecnologias ágeis para desenvolvimento de software, arquitetura de dados , microsserviços e design gráfico.<br>
 >Professional in agile technologies for software development, data architecture, microservices and graphic design.
