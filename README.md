@@ -1,5 +1,5 @@
 <!-- --README MADE BY MARKLEY SALES!--README MADE BY MARKLEY SALES!-- -->
-<img align="center" width="100%" src="https://user-images.githubusercontent.com/95272518/164079210-5f3145c8-68c3-45ce-9514-62e4c2f8899f.svg"><br>
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/95272518/164364035-eaf82440-58d2-446e-9266-21e4c11a43af.svg"><br>
 
 >Profissional em tecnologias ágeis para desenvolvimento de software, arquitetura de dados , microsserviços e design gráfico.<br>
 >Professional in agile technologies for software development, data architecture, microservices and graphic design.
@@ -48,8 +48,7 @@
   <a href="https://www.instagram.com/mark_sales.it/"><img align="right" height="20px" src="https://img.shields.io/badge/Instagram-%bebebecc?style=flat&logo=Instagram&logoColor=white&color=003140"></a>
    <a href="https://www.behance.net/markleysales"><img align="right" height="20px" src="https://img.shields.io/badge/Behance-%bebebecc?style=flat&logo=Behance&logoColor=white&color=003140"></a>
  <a href="https://www.linkedin.com/in/markley-sales/"> <img align="right" height="20px" src="https://img.shields.io/badge/LinkedIn-%236633?style=flat&logo=LinkedIn&logoColor=white&color=003140"></a>
-  Email:<br>
-  marksales.dev.eng@gmail.com
+  E-mail: marksales.dev@gmail.com
 </div>
    
 <br><br>
