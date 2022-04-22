@@ -17,24 +17,24 @@
 <div align="left" float="left">
    <!-- 38px e 324 -->
    <img width="324px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markleysales&color=003140&layout=compact">
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/158745924-a11fbe5c-2878-41d6-bf97-22c55db91509.svg">
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/158745941-d3cc40b1-e0dc-452b-8ecd-55f32b7d2864.svg">
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/162052504-21911b4c-3379-442d-ac4f-def70d053737.svg">
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/161621558-1446c296-5d09-429f-8eb8-367c31a6c973.svg">
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/152637055-b93b5f1d-1701-450a-8b37-e96f390cb62e.svg">
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/152637056-1278896a-a289-4147-abc3-83cdb497e4c9.svg">
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/162847855-d158b281-27d9-4ec5-bba5-35000bffe031.svg">
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/157142683-eb1eba11-6f8a-45a5-9937-7364947026e4.svg">
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/159185407-660ba0b6-f3c4-4247-bf01-02e84561aca5.svg">
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/162637080-c68610b2-b3cb-4fb1-b32f-a6986f493149.svg"><br>
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/157561853-74358d8e-08f9-4d61-a2f2-853d4b79606e.svg">
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/162044548-6b85c25f-5721-4895-9d43-c16303924f0b.svg">
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/152637068-f69a6109-a08d-4eee-8ca9-f55160df45c3.svg">
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/162642053-61b6056d-2ca0-4824-8a6f-f71c45eae3df.svg">
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/161620692-0c85bed3-92fc-4cf9-a47c-3aafe2061d74.svg">
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/162049685-b2c5fb90-17fb-48b6-b9ca-140c2f4276aa.svg">
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/162050974-facc632c-5db7-4180-98d2-966e3b643b6e.svg">
-   <img width="38px" src="https://user-images.githubusercontent.com/95272518/162051257-09cb309e-1f6e-46c3-a2f6-cf21a9f6295f.svg"><br>
+   <img width="38px" src="https://user-images.githubusercontent.com/95272518/164588954-ee98313b-17cf-440d-8aaf-5deb359eb766.svg">
+   <img width="38px" src="https://user-images.githubusercontent.com/95272518/164589118-648b1758-4a8f-4037-b7e7-8902c9e86890.svg">
+   <img width="38px" src="https://user-images.githubusercontent.com/95272518/164589240-5406ab4c-f5e7-4abc-a2a9-8ab4f16af6ba.svg">
+   <img width="38px" src="https://user-images.githubusercontent.com/95272518/164589390-a5d80ab8-05df-45a4-8d49-775372c30b85.svg">
+   <img width="38px" src="https://user-images.githubusercontent.com/95272518/164589936-3f302fa3-27ec-46e3-9815-3defb34be812.svg">
+   <img width="38px" src="https://user-images.githubusercontent.com/95272518/164590089-2705f3ad-c099-49ef-b854-75f942dc1bb5.svg">
+   <img width="38px" src="https://user-images.githubusercontent.com/95272518/164590601-d92b633c-b6e7-43bd-9488-41ae4db57849.svg">
+   <img width="38px" src="https://user-images.githubusercontent.com/95272518/164591070-757f9981-6e1f-4415-8cab-02b876e45736.svg">
+   <img width="38px" src="https://user-images.githubusercontent.com/95272518/164591274-9525245e-e8d4-4198-a91f-645ed3abe7bd.svg">
+   <img width="38px" src="https://user-images.githubusercontent.com/95272518/164591387-366adcf0-856d-4239-afe7-9cac1fdfbe0c.svg"><br>
+   <img width="38px" src="https://user-images.githubusercontent.com/95272518/164591514-435d7572-1059-4ff1-b04e-b9b2ae51199f.svg">
+   <img width="38px" src="https://user-images.githubusercontent.com/95272518/164591623-3657ba3c-b06b-49a5-8c01-a38c955a87eb.svg">
+   <img width="38px" src="https://user-images.githubusercontent.com/95272518/164591753-4c1cbdac-aac4-4fe7-8856-75d8ab80d018.svg">
+   <img width="38px" src="https://user-images.githubusercontent.com/95272518/164591885-5e7a064c-8c41-46ca-8620-5497da35c092.svg">
+   <img width="38px" src="https://user-images.githubusercontent.com/95272518/164592064-f72575e6-6f1b-42d8-90d4-6424f190af36.svg">
+   <img width="38px" src="https://user-images.githubusercontent.com/95272518/164592170-91446639-5605-4261-b676-27b961b52fc1.svg">
+   <img width="38px" src="https://user-images.githubusercontent.com/95272518/164592290-d76cdce0-b52e-4308-aefd-633b0ab593b5.svg">
+   <img width="38px" src="https://user-images.githubusercontent.com/95272518/164592409-3c142873-c8dd-4235-ac88-867434f997ff.svg"><br>
 </div><br>
 <p>Estou constantemente estudando novas tecnologias.<br>
     I am constantly studying new technologies.</p>
