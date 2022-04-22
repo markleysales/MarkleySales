@@ -48,7 +48,7 @@
   <a href="https://www.behance.net/markleysales"><img align="left" height="20px" src="https://img.shields.io/badge/Behance-%bebebecc?style=flat&logo=Behance&logoColor=white&color=003140"></a>
  <a href="https://www.instagram.com/mark_sales.it/"><img align="left" height="20px" src="https://img.shields.io/badge/Instagram-%bebebecc?style=flat&logo=Instagram&logoColor=white&color=003140"></a>
    <a href="https://api.whatsapp.com/send?phone=5591983367707&text=Hello%20Markley!%20I%20visited%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20talk%20about%20it."><img align="left" height="20px" src="https://img.shields.io/badge/Whatsapp-%236633cc?&logo=Whatsapp&logoColor=white&color=003140&style=flat"></a>
-  marksales.dev@gmail.com<br>
+  <a href="mailto:marksales.dev@gmail.com">marksales.dev@gmail.com</a><br>
   <a href="https://www.hisolver.com/">https://www.hisolver.com</a>
 </div>
    
