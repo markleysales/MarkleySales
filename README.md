@@ -25,8 +25,8 @@
    <img width="36px" src="https://user-images.githubusercontent.com/95272518/164590089-2705f3ad-c099-49ef-b854-75f942dc1bb5.svg">
    <img width="36px" src="https://user-images.githubusercontent.com/95272518/164590601-d92b633c-b6e7-43bd-9488-41ae4db57849.svg">
    <img width="36px" src="https://user-images.githubusercontent.com/95272518/164591070-757f9981-6e1f-4415-8cab-02b876e45736.svg">
-   <img width="36px" src="https://user-images.githubusercontent.com/95272518/164591274-9525245e-e8d4-4198-a91f-645ed3abe7bd.svg"><br>
-   <img width="36px" src="https://user-images.githubusercontent.com/95272518/164593242-410518ed-4d63-4c16-b9a1-d9bbf1d30666.svg">
+   <img width="36px" src="https://user-images.githubusercontent.com/95272518/164591274-9525245e-e8d4-4198-a91f-645ed3abe7bd.svg">
+   <img width="36px" src="https://user-images.githubusercontent.com/95272518/164593242-410518ed-4d63-4c16-b9a1-d9bbf1d30666.svg"><br>
    <img width="36px" src="https://user-images.githubusercontent.com/95272518/164760859-a104baca-a689-4a8d-9c14-776313fa9cff.svg">
    <img width="36px" src="https://user-images.githubusercontent.com/95272518/164591387-366adcf0-856d-4239-afe7-9cac1fdfbe0c.svg">
    <img width="36px" src="https://user-images.githubusercontent.com/95272518/164761176-4ade01e6-77af-4ed5-97f4-c1390f452276.svg"><br>
@@ -38,7 +38,8 @@
    <img width="36px" src="https://user-images.githubusercontent.com/95272518/164592170-91446639-5605-4261-b676-27b961b52fc1.svg">
    <img width="36px" src="https://user-images.githubusercontent.com/95272518/164592290-d76cdce0-b52e-4308-aefd-633b0ab593b5.svg">
    <img width="36px" src="https://user-images.githubusercontent.com/95272518/164592409-3c142873-c8dd-4235-ac88-867434f997ff.svg">
-   <img width="36px" src="https://user-images.githubusercontent.com/95272518/164592928-bd5532a9-9f60-4ead-b258-3aaea5beb98d.svg"><br>
+   <img width="36px" src="https://user-images.githubusercontent.com/95272518/164592928-bd5532a9-9f60-4ead-b258-3aaea5beb98d.svg">
+   <img width="36px" src="https://user-images.githubusercontent.com/95272518/164776257-6c166d9a-1b00-4802-9127-113856c8a7a3.svg"><br>
 </div><br>
 <p>Estou constantemente estudando novas tecnologias.<br>
     I am constantly studying new technologies.</p>
