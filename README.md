@@ -58,6 +58,9 @@
   <a href="https://www.hisolver.com/">www.hisolver.com</a>
  </div>
 <div align="left"><strong><sup>Follow me on Instagram and LinkedIn for tech content! 🔔</sup></strong</div>
+<br>
+<img width="200px" src="https://user-images.githubusercontent.com/95272518/164872172-2a6615f5-d2ae-4d1f-a723-bb3a88af10ca.png">
+<img width="200px" src="https://user-images.githubusercontent.com/95272518/164872297-647ebd93-17be-434d-bb1e-5873273a84e7.png">
    
 <br><br>
    
