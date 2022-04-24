@@ -44,7 +44,6 @@
 </div><br>
 <p>Estou constantemente estudando novas tecnologias.<br>
     I am constantly studying new technologies.</p>
-<br>
    
 <h2 float="left">ᴄ ᴏ ɴ ᴛ ᴀ ᴄ ᴛ s <!-- 💬 -->
    <!-- <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096786-0c36b4ae-bd1a-4464-8903-4829168ebbd3.svg"> -->
