@@ -56,7 +56,8 @@
   <a href="mailto:marksales.dev@gmail.com">marksales.dev@gmail.com</a><br>
   <a href="https://www.hisolver.com/">www.hisolver.com</a>
  </div>
-<div align="left"><strong><sup>Follow me on Instagram and LinkedIn for tech content! 🔔</sup></strong</div>
+<div align="left"><strong><sup>I publish news, articles and educational content about the world of technology! 💻
+<br>Follow me on Instagram and LinkedIn! 🔔</sup></strong</div>
    
 <br><br>
    
