@@ -2,7 +2,7 @@
 <img align="center" width="100%" src="https://user-images.githubusercontent.com/95272518/164365091-2f706463-662f-4356-959c-f3072b1c22d6.svg"><br>
 
 >Professional and academic in agile technologies for software development, data architecture, microservices and graphic design.<br>
->I am currently working as a full stack web and mobile developer and I am studying Machine Learning in private education.
+>I am currently working as a full stack web and mobile developer and I am studying Machine Learning for private education.
 
 <sub>
  <a href="https://drive.google.com/u/0/uc?id=1xvPcmCghc-CmB8sBGdkWRtCWlNqNJf89&export=download"><img align="left" height="20px" src="https://img.shields.io/badge/Download CV-%236633cc?&color=003140&style=flat"></a>
