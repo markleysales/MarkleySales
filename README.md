@@ -43,7 +43,7 @@
    <img width="36px" src="https://user-images.githubusercontent.com/95272518/164592928-bd5532a9-9f60-4ead-b258-3aaea5beb98d.svg"><br>
 </div><br>
 <p>Estou constantemente estudando novas tecnologias.<br>
-    I am constantly studying new technologies.</p>
+    I am constantly studying new technologies.<br><br></p>
    
 <h2 float="left">ᴄ ᴏ ɴ ᴛ ᴀ ᴄ ᴛ s <!-- 💬 -->
    <!-- <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096786-0c36b4ae-bd1a-4464-8903-4829168ebbd3.svg"> -->
@@ -56,9 +56,9 @@
   <a href="mailto:marksales.dev@gmail.com">marksales.dev@gmail.com</a><br>
   <a href="https://www.hisolver.com/">www.hisolver.com</a>
  </div>
-<div align="left"><strong><sup>Follow me on Instagram and LinkedIn for tech content! 🔔</sup></strong</div>
+<div align="left"><strong><sup>Follow me on Instagram and LinkedIn for tech content! 🔔<br></sup></strong</div>
    
-<br><br>
+<br>
    
 <div align="center" float="left">
    <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/152638376-4865c9a8-1e97-47e3-beeb-4339c9181d7b.gif">
