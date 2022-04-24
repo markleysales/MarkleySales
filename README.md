@@ -63,7 +63,7 @@
    
 <div align="center" float="left">
    <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/152638376-4865c9a8-1e97-47e3-beeb-4339c9181d7b.gif">
-   <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/159098677-34859cc8-082c-4428-8caf-57bc0496e41a.svg">
+   <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/164951272-7e7288ab-51f1-4c72-8edf-59f428a87b18.svg">
 </div>
 <!-- --README MADE BY MARKLEY SALES!--README MADE BY MARKLEY SALES!-- -->
 
