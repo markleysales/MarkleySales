@@ -3,7 +3,6 @@
 
 >Profissional em tecnologias ágeis para desenvolvimento de software, arquitetura de dados , microsserviços e design gráfico.<br>
 >Professional in agile technologies for software development, data architecture, microservices and graphic design.
->kkkkkkkkkkkkkkkkkkkkkkk
 
 <sub>
  <a href="https://drive.google.com/u/0/uc?id=1xvPcmCghc-CmB8sBGdkWRtCWlNqNJf89&export=download"><img align="left" height="20px" src="https://img.shields.io/badge/Download CV-%236633cc?&color=003140&style=flat"></a>
