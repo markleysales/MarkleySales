@@ -57,7 +57,7 @@
   <a href="https://www.hisolver.com/">www.hisolver.com</a>
  </div>
 <p align="left">Follow me on Instagram and LinkedIn! 🔔 Where I post news, trivia, articles
- <br>and educational content from all over the tech and geek world! 💻<br><br><br></p>
+ <br>and educational content from all over the tech and geek world! 💻</p>
 
    
 <!-- <div align="center" float="left">
