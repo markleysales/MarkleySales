@@ -48,6 +48,7 @@
 <h2 float="left">ᴄ ᴏ ɴ ᴛ ᴀ ᴄ ᴛ s <!-- 💬 -->
    <!-- <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096786-0c36b4ae-bd1a-4464-8903-4829168ebbd3.svg"> -->
 </h2>
+<img align="right" width="220px" src="https://user-images.githubusercontent.com/95272518/165620304-f5bfd872-9ee3-4ddc-89f6-d8cfebdc6d39.gif">
 <div align="right"><sub>
  <a href="https://www.linkedin.com/in/markley-sales/"> <img align="left" height="20px" src="https://img.shields.io/badge/LinkedIn-%236633?style=flat&logo=LinkedIn&logoColor=white&color=003140"></a>
   <a href="https://www.behance.net/markleysales"><img align="left" height="20px" src="https://img.shields.io/badge/Behance-%bebebecc?style=flat&logo=Behance&logoColor=white&color=003140"></a>
