@@ -57,7 +57,7 @@
 <div>
  <div>Follow me on Instagram and LinkedIn! 🔔 Where I post news, trivia, articles
   <br>and educational content from all over the tech and geek world! 💻</div><br>
- <div align="right"><a href="mailto:marksales.dev@gmail.com">marksales.dev@gmail.com</a><br>
+ <div align="right"><a href="mailto:marksales.dev.eng@gmail.com">marksales.dev@gmail.com</a><br>
   <a href="https://www.hisolver.com/">www.hisolver.com</a></div>
 </div>
 
