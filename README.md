@@ -60,10 +60,10 @@
  <br>and educational content from all over the tech and geek world! 💻<br><br><br></p>
 
    
-<div align="center" float="left">
+<!-- <div align="center" float="left">
    <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/152638376-4865c9a8-1e97-47e3-beeb-4339c9181d7b.gif">
    <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/164952292-d67ee523-8617-4e76-bbb8-120f95723c1d.svg">
-</div>
+</div> -->
 <!-- --README MADE BY MARKLEY SALES!--README MADE BY MARKLEY SALES!-- -->
 
 
