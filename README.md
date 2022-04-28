@@ -55,6 +55,7 @@
   <a href="https://www.behance.net/markleysales"><img align="left" height="20px" src="https://img.shields.io/badge/Behance-%bebebecc?style=flat&logo=Behance&logoColor=white&color=003140"></a>
    <a href="https://api.whatsapp.com/send?phone=5591983367707&text=Hello%20Markley!%20I%20visited%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20talk%20about%20it."><img align="left" height="20px" src="https://img.shields.io/badge/Whatsapp-%236633cc?&logo=Whatsapp&logoColor=white&color=003140&style=flat"></a></sub>
 </div><br><br>
+<img align="right" width="500px" src="https://metrics.lecoq.io/markleysales?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&lines=1&people=1&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=America%2FSao_Paulo">
 <div>
  <div>Follow me on Instagram and LinkedIn! 🔔 Where I post news, trivia, articles
   <br>and educational content from all over the tech and geek world! 💻</div><br>
