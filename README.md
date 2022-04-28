@@ -7,8 +7,9 @@
 <sub>
  <a href="https://drive.google.com/u/0/uc?id=1xvPcmCghc-CmB8sBGdkWRtCWlNqNJf89&export=download"><img align="left" height="20px" src="https://img.shields.io/badge/Download CV-%236633cc?&color=003140&style=flat"></a>
  <img height="20px" align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales&count_bg=%23003140&title_bg=%23003140&icon=myspace.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false">
- <a href="https://gitlab.com/marksales"><img align="right" height="20px" src="https://img.shields.io/badge/GitLab-%236633?style=flat&logo=GitLab&color=003140"></a></sub>
-<br><br>
+ <a href="https://gitlab.com/marksales"><img align="right" height="20px" src="https://img.shields.io/badge/GitLab-%236633?style=flat&logo=GitLab&color=003140"></a>
+</sub>
+<br>
    
 <h2>ᴛ ᴇ ᴄ ʜ ɴ ᴏ ʟ ᴏ ɢ ɪ ᴇ s <!-- 💻 -->
    <!-- <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096765-973af899-e649-475e-845a-5fb1f505f306.svg"> -->
