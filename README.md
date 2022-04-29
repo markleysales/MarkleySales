@@ -15,9 +15,10 @@
    <!-- <img align="right" width="88px" src="https://user-images.githubusercontent.com/95272518/159096765-973af899-e649-475e-845a-5fb1f505f306.svg"> -->
 </h2>
 <!--<p>Programming and Design</p>-->
-<div align="left" float="left">
+ <img width="310px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markleysales&color=003140&layout=compact">
+<table>
+ <td>
    <!-- 38px e 324 -->
-   <img width="310px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markleysales&color=003140&layout=compact">
    <img width="32px" src="https://user-images.githubusercontent.com/95272518/164588954-ee98313b-17cf-440d-8aaf-5deb359eb766.svg">
    <img width="32px" src="https://user-images.githubusercontent.com/95272518/164589118-648b1758-4a8f-4037-b7e7-8902c9e86890.svg">
    <img width="32px" src="https://user-images.githubusercontent.com/95272518/164589240-5406ab4c-f5e7-4abc-a2a9-8ab4f16af6ba.svg">
@@ -42,7 +43,8 @@
    <img width="32px" src="https://user-images.githubusercontent.com/95272518/164592290-d76cdce0-b52e-4308-aefd-633b0ab593b5.svg">
    <img width="32px" src="https://user-images.githubusercontent.com/95272518/164592409-3c142873-c8dd-4235-ac88-867434f997ff.svg">
    <img width="32px" src="https://user-images.githubusercontent.com/95272518/164592928-bd5532a9-9f60-4ead-b258-3aaea5beb98d.svg">
-</div>
+  </td>
+</table>
 <!-- <p>Estou constantemente estudando novas tecnologias.<br>
     I am constantly studying new technologies.<br><br></p> -->
    
