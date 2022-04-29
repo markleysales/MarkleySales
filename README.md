@@ -1,5 +1,5 @@
 <!-- --README MADE BY MARKLEY SALES!--README MADE BY MARKLEY SALES!-- -->
-<img align="center" width="100%" src="https://user-images.githubusercontent.com/95272518/165870109-54f212bb-a82d-4a4c-80df-281743e14b0e.svg"><br>
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/95272518/165870448-f2dae3d7-dd6d-43f5-921e-d930b4cd1a4f.svg"><br>
 
 >Professional and academic in agile technologies for software development, data architecture, microservices and graphic design.<br>
 >I am currently working as a full stack web and mobile developer and I am studying Machine Learning for private education.
