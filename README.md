@@ -60,7 +60,7 @@
  <div align="left">
   <a href="mailto:marksales.dev.eng@gmail.com"><strong>marksales.dev.eng@gmail.com</strong></a><br>
   <a href="https://www.hisolver.com/"><strong>www.hisolver.com</strong></a>
-  <sub><img align="right" width="160px" src="https://user-images.githubusercontent.com/95272518/165873925-18023b0b-472b-453d-9227-c81131043e1f.svg"></sub>
+  <sup><img align="right" width="160px" src="https://user-images.githubusercontent.com/95272518/165873925-18023b0b-472b-453d-9227-c81131043e1f.svg"></sup>
  </div>
 </div>
 
