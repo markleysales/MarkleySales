@@ -56,9 +56,9 @@
    <a href="https://api.whatsapp.com/send?phone=5591983367707&text=Hello%20Markley!%20I%20visited%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20talk%20about%20it."><img align="left" height="20px" src="https://img.shields.io/badge/Whatsapp-%236633cc?&logo=Whatsapp&logoColor=white&color=003140&style=flat"></a></sub>
 </div><br><br>
  <div>Follow me on Instagram and LinkedIn! 🔔 Where I post news, trivia, articles
- <br>and educational content from all over the tech and geek world! 💻</div><br>
+ <br>and educational content from all over the tech and geek world! 💻</div>
+ <sub><img align="right" width="100px" src="https://user-images.githubusercontent.com/95272518/166081077-9d60ec18-1b6b-4608-98b5-9ed2542bdfb1.svg"></sub><br>
  <div align="left">
-  <sup><img align="right" width="100px" src="https://user-images.githubusercontent.com/95272518/166081077-9d60ec18-1b6b-4608-98b5-9ed2542bdfb1.svg"></sup>
   <a href="mailto:marksales.dev.eng@gmail.com"><strong>marksales.dev.eng@gmail.com</strong></a><br>
   <a href="https://www.hisolver.com/"><strong>www.hisolver.com</strong></a>
  </div>
