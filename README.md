@@ -57,8 +57,8 @@
 </div><br><br>
  <div>Follow me on Instagram and LinkedIn! 🔔 Where I post news, trivia, articles
  <br>and educational content from all over the tech and geek world! 💻<sub></sub></div><br>
- <img align="right" width="70px" src="https://user-images.githubusercontent.com/95272518/165822571-d8a2e09a-e305-4be6-aca8-206105523c5f.svg">
  <div align="left">
+  <img align="right" width="70px" src="https://user-images.githubusercontent.com/95272518/165822571-d8a2e09a-e305-4be6-aca8-206105523c5f.svg">
   <a href="mailto:marksales.dev.eng@gmail.com"><strong>marksales.dev.eng@gmail.com</strong></a><br>
   <a href="https://www.hisolver.com/"><strong>www.hisolver.com</strong></a>
  </div>
