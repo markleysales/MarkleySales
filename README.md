@@ -1,6 +1,6 @@
 <!-- --README MADE BY MARKLEY SALES!--README MADE BY MARKLEY SALES!-- -->
 
-<div id="bg" align="center"><img width="74%" src="https://user-images.githubusercontent.com/95272518/167280871-bc382398-ba8e-40a3-9436-ef7cc875b432.svg"></div>
+<div id="bg" align="center"><img width="70%" src="https://user-images.githubusercontent.com/95272518/167280871-bc382398-ba8e-40a3-9436-ef7cc875b432.svg"></div>
 <br>
 <div align="center">
    <a href="https://drive.google.com/u/0/uc?id=1xvPcmCghc-CmB8sBGdkWRtCWlNqNJf89&export=download">
@@ -28,12 +28,14 @@
 
 <h3>TECHNOLOGIES</H3>
 <div>
-   <b><sub>HTML5, CSS3, SASS, Tailwind, JavaScript, Bootstrap, React, React Native, NativeScript, TypeScript, Next.js, Vue.js, Node.js,</sub>
-   <br>
-   <sup>Three.js, Python, Manim, Ruby, Rails, MongoDB, PostgreSQL, MySQL, AWS, Docker, Kubernetes, Digital Ocean</sup></b>
+   <h5>
+      HTML5, CSS3, SASS, Tailwind, JavaScript, Bootstrap, React, React Native, NativeScript, TypeScript, Next.js, Vue.js, Node.js,<br>
+      Three.js, Python, Manim, Ruby, Rails, MongoDB, PostgreSQL, MySQL, AWS, Docker, Kubernetes, Digital Ocean
+   </h5>
 </div>
 
 
+<br>
 <h3>CONTACTS</h3>
 <img width="140px" align="right" src="https://user-images.githubusercontent.com/95272518/167282311-9d15d843-f581-4784-91b4-522d6d56ab74.svg">
 <div id="social-medias">
@@ -51,17 +53,17 @@
    </a>
 </div>
 <div>
-   <b><sub>Follow me on Instagram and LinkedIn! 🔔 Where I post news, trivia, articles</sub>
-   <br>
-   <sup>and educational content from all over the tech and geek world! 💻</sup></b>
+   <h5>
+      Follow me on Instagram and LinkedIn! 🔔 Where I post news, trivia, articles<br>
+      and educational content from all over the tech and geek world! 💻
+   </h5>
 </div>
 <div>
-   <b><sub><a href="mailto:marksales.dev.eng@gmail.com">
+   <h5><a href="mailto:marksales.dev.eng@gmail.com">
       marksales.dev.eng@gmail.com
-   </a></sub>
    <br>
-   <sup><a href="https://www.hisolver.com">
+   <a href="https://www.hisolver.com">
       www.hisolver.com
-   </a></sup></b>
+   </a></h5>
 </div>
 
