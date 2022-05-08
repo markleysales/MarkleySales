@@ -1,6 +1,6 @@
 <!-- --README MADE BY MARKLEY SALES!--README MADE BY MARKLEY SALES!-- -->
 
-<div id="bg" align="center"><img width="76%" src="https://user-images.githubusercontent.com/95272518/167280871-bc382398-ba8e-40a3-9436-ef7cc875b432.svg"></div>
+<div id="bg" align="center"><img width="74%" src="https://user-images.githubusercontent.com/95272518/167280871-bc382398-ba8e-40a3-9436-ef7cc875b432.svg"></div>
 <br>
 <div align="center">
    <a href="https://drive.google.com/u/0/uc?id=1xvPcmCghc-CmB8sBGdkWRtCWlNqNJf89&export=download">
