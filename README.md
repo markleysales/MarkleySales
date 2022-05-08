@@ -49,8 +49,8 @@
    <a href="https://api.whatsapp.com/send?phone=5591983367707&text=Hello%20Markley!%20I%20visited%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20talk%20about%20it.">
       <img height="20px" src="https://img.shields.io/badge/Whatsapp-%236633cc?&logo=Whatsapp&logoColor=white&color=003140&style=flat">
    </a>
-   <sub><img width="130px" align="right" src="https://user-images.githubusercontent.com/95272518/167282311-9d15d843-f581-4784-91b4-522d6d56ab74.svg"></sub>
 </div>
+<sub><img width="130px" align="right" src="https://user-images.githubusercontent.com/95272518/167282311-9d15d843-f581-4784-91b4-522d6d56ab74.svg"></sub>
 <div>
    <h5>
       Follow me on Instagram and LinkedIn! 🔔 Where I post news, trivia, articles<br>
