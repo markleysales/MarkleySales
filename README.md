@@ -12,7 +12,7 @@
    </a></sup>
 </div>
 <br>
-<div align="center"><img width="180px" src="https://user-images.githubusercontent.com/95272518/167316818-1744d7d3-ffcd-4e98-88ba-2caf9497b406.png"></div>
+<div align="center"><img width="180px" src="https://user-images.githubusercontent.com/95272518/167317382-fa4a25f7-f949-4b66-b61a-faf6d650dd44.png"></div>
 <div align="center">
 <a href="https://github.com/markleysales"><b>Live the future
    <br>
