@@ -29,7 +29,7 @@
 <h3>TECHNOLOGIES</H3>
 <div>
    <h5>
-      HTML5, CSS3, SASS, Tailwind, JavaScript, Bootstrap, React, React Native, NativeScript, TypeScript, Next.js, Vue.js, Node.js,<br>
+      Html, Css, Sass, Tailwind, JavaScript, Bootstrap, React, React Native, NativeScript, TypeScript, Next.js, Vue.js, Node.js,<br>
       Three.js, Python, Manim, Ruby, Rails, MongoDB, PostgreSQL, MySQL, AWS, Docker, Kubernetes, Digital Ocean<br><br>
    </h5>
 </div>
