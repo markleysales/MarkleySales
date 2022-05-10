@@ -13,9 +13,12 @@
    </sup>
 </div>
 <br>
-<div align="center"><img width="22%" src="https://user-images.githubusercontent.com/95272518/167324348-441c688d-50a8-4416-a4cf-79955c153dc7.png"></div>
-<div align="center">
-<a href="https://github.com/markleysales"><b>Live the future
+<div id="main-presentation" align="center">
+   <sup>
+      <img width="22%" src="https://user-images.githubusercontent.com/95272518/167324348-441c688d-50a8-4416-a4cf-79955c153dc7.png">
+   </sup>
+   <br>
+   <a href="https://github.com/markleysales"><b>Live the future
    <br>
    <sub>Professional and academic in agile technologies for software</sub>
    <br>
@@ -25,8 +28,11 @@
    <br>
    <sup>and i am studying Machine Learning for private education.</sup><br></a>
    <img width="22%" src="https://user-images.githubusercontent.com/95272518/167537888-71ad417e-1cf1-4639-b876-0312522e59da.svg">
+   <sub>
+      <img width="100%" src="https://user-images.githubusercontent.com/95272518/167252740-89c90262-93c2-4891-a6d0-71bfae53b1aa.svg">
+   </sub> 
 </div>
-<sub><img width="100%" src="https://user-images.githubusercontent.com/95272518/167252740-89c90262-93c2-4891-a6d0-71bfae53b1aa.svg"></sub> 
+
 
 
 <h3>TECHNOLOGIES</H3>
