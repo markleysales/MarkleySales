@@ -14,8 +14,8 @@
 </div>
 <br>
 <div align="center">
-   <img width="22%" src="https://user-images.githubusercontent.com/95272518/167324348-441c688d-50a8-4416-a4cf-79955c153dc7.png">
-   <img width="22%" src="https://user-images.githubusercontent.com/95272518/167537392-267c622b-1cff-4a4b-9072-230a6dd6f41f.svg">
+   <img width="20%" src="https://user-images.githubusercontent.com/95272518/167324348-441c688d-50a8-4416-a4cf-79955c153dc7.png">
+   <img width="20%" src="https://user-images.githubusercontent.com/95272518/167537643-5f91e5b6-1c3a-4ec8-9a47-742429569375.svg">
 </div>
 <div align="center">
 <a href="https://github.com/markleysales"><b>Live the future
