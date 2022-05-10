@@ -1,7 +1,7 @@
 <!-- --README MADE BY MARKLEY SALES!--README MADE BY MARKLEY SALES!-- -->
 
 <div id="header" align="center">
-   <img id="bg" width="76%" src="https://user-images.githubusercontent.com/95272518/167544437-0bb706b2-fdc1-4389-bb46-0e25a7a8d73d.svg">
+   <img id="bg" width="80%" src="https://user-images.githubusercontent.com/95272518/167544437-0bb706b2-fdc1-4389-bb46-0e25a7a8d73d.svg">
    <br><br>
    <sup><a href="https://drive.google.com/u/0/uc?id=1xvPcmCghc-CmB8sBGdkWRtCWlNqNJf89&export=download">
       <img height="20px" src="https://img.shields.io/badge/Download CV-%236633cc?&color=003140&style=flat">
