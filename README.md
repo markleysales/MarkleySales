@@ -13,10 +13,7 @@
    </sup>
 </div>
 <br>
-<div align="center">
-   <img width="20%" src="https://user-images.githubusercontent.com/95272518/167324348-441c688d-50a8-4416-a4cf-79955c153dc7.png">
-   <img width="20%" src="https://user-images.githubusercontent.com/95272518/167537643-5f91e5b6-1c3a-4ec8-9a47-742429569375.svg">
-</div>
+<div align="center"><img width="20%" src="https://user-images.githubusercontent.com/95272518/167324348-441c688d-50a8-4416-a4cf-79955c153dc7.png"></div>
 <div align="center">
 <a href="https://github.com/markleysales"><b>Live the future
    <br>
@@ -26,8 +23,10 @@
    <br>
    <sub>I am currently working as a full stack web and mobile developer</sub>
    <br>
-   <sup>and i am studying Machine Learning for private education.</sup></b></a>
+   <sup>and i am studying Machine Learning for private education.</sup><br></a>
+   <img width="20%" src="https://user-images.githubusercontent.com/95272518/167537888-71ad417e-1cf1-4639-b876-0312522e59da.svg">
 </div>
+
 <sub><img width="100%" src="https://user-images.githubusercontent.com/95272518/167252740-89c90262-93c2-4891-a6d0-71bfae53b1aa.svg"></sub> 
 
 
@@ -55,7 +54,9 @@
       <img height="20px" src="https://img.shields.io/badge/Whatsapp-%236633cc?&logo=Whatsapp&logoColor=white&color=003140&style=flat">
    </a>
 </div>
+<!--
 <sup><img width="100px" align="right" src="https://user-images.githubusercontent.com/95272518/167536672-66a5e205-5b7a-42b3-8bcf-c247964018dd.svg"></sup>
+-->
 <div>
    <h5>
       Follow me on Instagram and LinkedIn! 🔔 Where I post news, trivia, articles<br>
