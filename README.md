@@ -13,7 +13,10 @@
    </sup>
 </div>
 <br>
-<div align="center"><img width="22%" src="https://user-images.githubusercontent.com/95272518/167324348-441c688d-50a8-4416-a4cf-79955c153dc7.png"></div>
+<div align="center">
+   <img width="22%" src="https://user-images.githubusercontent.com/95272518/167324348-441c688d-50a8-4416-a4cf-79955c153dc7.png">
+   <img width="22%" src="https://user-images.githubusercontent.com/95272518/167537392-267c622b-1cff-4a4b-9072-230a6dd6f41f.svg">
+</div>
 <div align="center">
 <a href="https://github.com/markleysales"><b>Live the future
    <br>
