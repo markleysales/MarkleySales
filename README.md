@@ -1,7 +1,7 @@
 <!-- --README MADE BY MARKLEY SALES!--README MADE BY MARKLEY SALES!-- -->
 
 <div id="header" align="center">
-   <img id="bg" width="80%" src="https://user-images.githubusercontent.com/95272518/167546027-8451369e-65ea-4ac8-ba67-be41b4277ef8.svg">
+   <img id="bg" width="80%" src="https://user-images.githubusercontent.com/95272518/167546517-e8d877ef-5f26-48a5-b7b6-4bdfe08b3178.svg">
    <br><br>
    <sup>
       <a href="https://drive.google.com/u/0/uc?id=1xvPcmCghc-CmB8sBGdkWRtCWlNqNJf89&export=download">
