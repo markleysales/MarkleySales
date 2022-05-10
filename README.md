@@ -1,7 +1,7 @@
 <!-- --README MADE BY MARKLEY SALES!--README MADE BY MARKLEY SALES!-- -->
 
 <div id="header" align="center">
-   <img id="bg" width="80%" src="https://user-images.githubusercontent.com/95272518/167548311-c6a1d55d-078b-4840-8817-f3914ec50e65.svg">
+   <img id="bg" width="80%" src="https://user-images.githubusercontent.com/95272518/167550277-c38e1707-0a70-4121-a242-a8408b87e435.svg">
    <br><br>
    <sup>
       <a href="https://drive.google.com/u/0/uc?id=1xvPcmCghc-CmB8sBGdkWRtCWlNqNJf89&export=download">
@@ -61,7 +61,7 @@
    </a>
 </div>
 <!--
-<sup><img width="100px" align="right" src="https://user-images.githubusercontent.com/95272518/167536672-66a5e205-5b7a-42b3-8bcf-c247964018dd.svg"></sup>
+optional image
 -->
 <div>
    <h5>
