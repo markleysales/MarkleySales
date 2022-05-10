@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
    <img id="bg" width="80%" src="https://user-images.githubusercontent.com/95272518/167551997-c34c7c46-78ec-4f76-b27c-60704aefd16f.svg">
-   <br><br>
+   <sup><hr></sup>
    <sup>
       <a href="https://drive.google.com/u/0/uc?id=1xvPcmCghc-CmB8sBGdkWRtCWlNqNJf89&export=download">
       <img height="20px" src="https://img.shields.io/badge/Download CV-%236633cc?&color=003140&style=flat">
