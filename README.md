@@ -1,15 +1,16 @@
 <!-- --README MADE BY MARKLEY SALES!--README MADE BY MARKLEY SALES!-- -->
 
 <div id="header" align="center">
-   <img id="bg" width="80%" src="https://user-images.githubusercontent.com/95272518/167544437-0bb706b2-fdc1-4389-bb46-0e25a7a8d73d.svg">
+   <img id="bg" width="80%" src="https://user-images.githubusercontent.com/95272518/167545677-4b6db216-4098-43b1-b054-248abf18f99a.svg">
    <br><br>
-   <sup><a href="https://drive.google.com/u/0/uc?id=1xvPcmCghc-CmB8sBGdkWRtCWlNqNJf89&export=download">
+   <sup>
+      <a href="https://drive.google.com/u/0/uc?id=1xvPcmCghc-CmB8sBGdkWRtCWlNqNJf89&export=download">
       <img height="20px" src="https://img.shields.io/badge/Download CV-%236633cc?&color=003140&style=flat">
-   </a>
-   <a href="https://gitlab.com/marksales">
-      <img height="20px" src="https://img.shields.io/badge/GitLab-%236633?style=flat&logo=GitLab&color=003140">
-   </a>
-   <img height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales&count_bg=%23003140&title_bg=%23003140&icon=myspace.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false">
+      </a>
+      <a href="https://gitlab.com/marksales">
+         <img height="20px" src="https://img.shields.io/badge/GitLab-%236633?style=flat&logo=GitLab&color=003140">
+      </a>
+      <img height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales&count_bg=%23003140&title_bg=%23003140&icon=myspace.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false">
    </sup>
 </div>
 <br>
