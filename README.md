@@ -11,7 +11,6 @@
          <img height="20px" src="https://img.shields.io/badge/GitLab-%236633?style=flat&logo=GitLab&color=003140">
       </a>
       <img height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales&count_bg=%23003140&title_bg=%23003140&icon=myspace.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false">
-      <br><br>
    </sup>
 </div>
 <br>
