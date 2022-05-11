@@ -4,7 +4,7 @@
    <img id="bg" width="80%" src="https://user-images.githubusercontent.com/95272518/167551997-c34c7c46-78ec-4f76-b27c-60704aefd16f.svg">
    <br><br>
    <sup>
-      <a href="https://drive.google.com/u/0/uc?id=1ZCIomyjEdNNU4p0Gx5YAxSSbmHXYxm3i&export=download">
+      <a href="https://drive.google.com/u/0/uc?id=1l8d5X9o_KHNy6ev_dZzjcRdkJFKUHrYZ&export=download">
       <img height="20px" src="https://img.shields.io/badge/Download CV-%236633cc?&color=003140&style=flat">
       </a>
       <a href="https://gitlab.com/marksales">
