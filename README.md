@@ -35,7 +35,7 @@
 </div>
 
 
-<h3>TECHNOLOGIES</H3>
+<h3>Technologies</H3>
 <div>
    <h5>
       HTML, CSS, SASS, Tailwind, <i>JavaScript</i>, Bootstrap, React, React Native, NativeScript, TypeScript, Next.js, Vue.js, Nuxt.js, Three.js,<br>
@@ -44,7 +44,7 @@
 </div>
 
 
-<h3>CONTACTS</h3>
+<h3>Contacts</h3>
 <div id="social-medias">
    <a href="https://www.instagram.com/mark_sales.it">
       <img height="20px" src="https://img.shields.io/badge/Instagram-%bebebecc?style=flat&logo=Instagram&logoColor=white&color=003140">
