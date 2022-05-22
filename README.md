@@ -38,7 +38,7 @@
 <h3>Technologies</H3>
 <div>
    <h5>
-      <i>JavaScript</i>, Bootstrap, React, React Native, NativeScript, TypeScript, Next.js, Vue.js, Vuetify, Nuxt.js, Three.js,<br>
+      Tailwind, Bootstrap, <i>JavaScript</i>, React, Next.js, React Native, NativeScript, TypeScript, Vue.js, Vuetify, Nuxt.js, Three.js,<br>
       node.js, <i>Python</i>, Manim, <i>Ruby</i>, Rails, MongoDB, PostgreSQL, MySQL, AWS, Docker, Kubernetes, Digital Ocean...<br><br>
    </h5>
 </div>
