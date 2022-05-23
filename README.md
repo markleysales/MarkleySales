@@ -28,7 +28,6 @@
    <sub>I am currently working as a full stack web and mobile developer</sub>
    <br>
    <sup>and i am studying Machine Learning for private education.</sup><br></a>
-   <img width="22%" src="https://user-images.githubusercontent.com/95272518/167559109-d4290b92-25e8-49f7-b9e9-ba92155726cc.svg">
    <sub>
       <img width="100%" src="https://user-images.githubusercontent.com/95272518/167558090-7d33bbb3-1a6d-4c2b-8f33-ad57f3d68e3d.svg">
    </sub> 
@@ -36,7 +35,6 @@
 
 
 <h3>Technologies</H3>
-<div>
    <h5>
       Tailwind, Bootstrap, <i>JavaScript</i>, React, Next.js, React Native, NativeScript, TypeScript, Vue.js, Vuetify, Nuxt.js, Three.js,<br>
       node.js, <i>Python</i>, Manim, <i>Ruby</i>, Rails, MongoDB, PostgreSQL, MySQL, AWS, Docker, Kubernetes, Digital Ocean...<br><br>
@@ -46,6 +44,7 @@
 
 <h3>Contacts</h3>
 <div id="social-medias">
+   <img align="right" width="16%" src="https://user-images.githubusercontent.com/95272518/167559109-d4290b92-25e8-49f7-b9e9-ba92155726cc.svg">
    <a href="https://www.instagram.com/mark_sales.it">
       <img height="20px" src="https://img.shields.io/badge/Instagram-%bebebecc?style=flat&logo=Instagram&logoColor=white&color=003140">
    </a>
@@ -59,9 +58,6 @@
       <img height="20px" src="https://img.shields.io/badge/Whatsapp-%236633cc?&logo=Whatsapp&logoColor=white&color=003140&style=flat">
    </a>
 </div>
-<!--
-optional image
--->
 <div>
    <h5>
       Follow me on Instagram and LinkedIn! 🔔 Where I post news, trivia, articles<br>
