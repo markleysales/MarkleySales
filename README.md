@@ -57,7 +57,7 @@
       <img height="20px" src="https://img.shields.io/badge/Whatsapp-%236633cc?&logo=Whatsapp&logoColor=white&color=003140&style=flat">
    </a>
 </div>
-<sup><img align="right" width="14%" src="https://user-images.githubusercontent.com/95272518/169843226-44b4e18a-08b3-4c5a-9871-7cc689bc612d.svg"></sup>
+<sup><img align="right" width="14%" src="https://user-images.githubusercontent.com/95272518/169843828-4ba08b4d-069b-4e51-9153-b022f9e37853.svg"></sup>
 <div>
    <h5>
       Follow me on Instagram and LinkedIn! 🔔 Where I post news, trivia, articles<br>
