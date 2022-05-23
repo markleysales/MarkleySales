@@ -44,10 +44,10 @@
 
 <h3>Contacts</h3>
 <div id="social-medias">
-   <sub><img align="right" width="14%" src="https://user-images.githubusercontent.com/95272518/169843226-44b4e18a-08b3-4c5a-9871-7cc689bc612d.svg"></sub>
    <a href="https://www.instagram.com/mark_sales.it">
       <img height="20px" src="https://img.shields.io/badge/Instagram-%bebebecc?style=flat&logo=Instagram&logoColor=white&color=003140">
    </a>
+    <sub><img align="right" width="14%" src="https://user-images.githubusercontent.com/95272518/169843226-44b4e18a-08b3-4c5a-9871-7cc689bc612d.svg"></sub>
    <a href="https://www.linkedin.com/in/markley-sales">
       <img height="20px" src="https://img.shields.io/badge/LinkedIn-%236633?style=flat&logo=LinkedIn&logoColor=white&color=003140">
    </a>
