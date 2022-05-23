@@ -44,7 +44,7 @@
 
 <h3>Contacts</h3>
 <div id="social-medias">
-   <img align="right" width="16%" src="https://user-images.githubusercontent.com/95272518/169842262-a969a991-79ee-492a-bd57-7bd652162a43.svg">
+   <sub><img align="right" width="14%" src="https://user-images.githubusercontent.com/95272518/169842262-a969a991-79ee-492a-bd57-7bd652162a43.svg"></sub>
    <a href="https://www.instagram.com/mark_sales.it">
       <img height="20px" src="https://img.shields.io/badge/Instagram-%bebebecc?style=flat&logo=Instagram&logoColor=white&color=003140">
    </a>
