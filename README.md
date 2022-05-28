@@ -5,7 +5,7 @@
    <br><br>
    <sup>
       <a href="https://drive.google.com/u/0/uc?id=1l8d5X9o_KHNy6ev_dZzjcRdkJFKUHrYZ&export=download">
-      <img height="20px" src="https://img.shields.io/badge/Download CV-%236633cc?&color=003140&style=flat">
+      <img height="20px" src="https://img.shields.io/badge/Download CV-%236633cc?&logo=Adobe&logoColor=F20F00&color=003140&style=flat">
       </a>
       <a href="https://gitlab.com/marksales">
          <img height="20px" src="https://img.shields.io/badge/GitLab-%236633?style=flat&logo=GitLab&color=003140">
