@@ -36,14 +36,6 @@
 
 <div>
   <h3>Technologies</H3>
-    <img height="20px" src="https://img.shields.io/badge/Instagram-%bebebecc?style=flat&logo=JavaScript&color=003140">
-   <img height="20px" src="https://img.shields.io/badge/Instagram-%bebebecc?style=flat&logo=React&color=003140">
-   <img height="20px" src="https://img.shields.io/badge/Instagram-%bebebecc?style=flat&logo=Vue.js&color=003140">
-<img height="20px" src="https://img.shields.io/badge/Instagram-%bebebecc?style=flat&logo=Node.js&color=003140">
-    <img height="20px" src="https://img.shields.io/badge/Instagram-%bebebecc?style=flat&logo=Python&color=003140">
-   <img height="20px" src="https://img.shields.io/badge/Instagram-%bebebecc?style=flat&logo=Ruby&color=003140">
-   <img height="20px" src="https://img.shields.io/badge/Instagram-%bebebecc?style=flat&logo=docker&color=003140">
-   <img height="20px" src="https://img.shields.io/badge/Instagram-%bebebecc?style=flat&logo=mysql&color=003140">
   <h5>
     Tailwind, Bootstrap, <i>JavaScript</i>, React, Next.js, React Native, TypeScript, Vue.js, Vuetify, Nuxt.js, NativeScript, Three.js,<br>
     Node.js, <i>Python</i>, Manim, <i>Ruby</i>, Rails, MongoDB, PostgreSQL, MySQL, AWS, Docker, Kubernetes, Digital Ocean...<br><br>
