@@ -1,5 +1,5 @@
 <!-- --README MADE BY MARKLEY SALES!--README MADE BY MARKLEY SALES!-- -->
-<img width="52%" align="right" src="https://user-images.githubusercontent.com/95272518/170850388-92125f9b-005a-42af-bc4e-cb99461c4714.svg">
+<img width="50%" align="right" src="https://user-images.githubusercontent.com/95272518/170850388-92125f9b-005a-42af-bc4e-cb99461c4714.svg">
 <div id="header" align="lef">
   
   <!-- <img id="bg" width="80%" src="https://user-images.githubusercontent.com/95272518/167551997-c34c7c46-78ec-4f76-b27c-60704aefd16f.svg">
