@@ -1,8 +1,7 @@
 <!-- --README MADE BY MARKLEY SALES!--README MADE BY MARKLEY SALES!-- -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markleysales&langs_count=8">
-<div id="header" align="left">
-  <!-- <img id="bg" width="80%" src="https://user-images.githubusercontent.com/95272518/167551997-c34c7c46-78ec-4f76-b27c-60704aefd16f.svg">
-   <br><br> -->
+<div id="header" align="center">
+  <img id="bg" width="80%" src="https://user-images.githubusercontent.com/95272518/167551997-c34c7c46-78ec-4f76-b27c-60704aefd16f.svg">
+   <br><br>
    <sup>
       <a href="https://drive.google.com/u/0/uc?id=1l8d5X9o_KHNy6ev_dZzjcRdkJFKUHrYZ&export=download">
       <img height="20px" src="https://img.shields.io/badge/Download CV-%236633cc?&logo=Adobe&logoColor=F20F00&color=003140&style=flat">
@@ -14,7 +13,7 @@
    </sup>
 </div>
 <br>
-<div id="main-presentation" align="left">
+<div id="main-presentation" align="center">
    <sup>
       <img width="22%" src="https://user-images.githubusercontent.com/95272518/167324348-441c688d-50a8-4416-a4cf-79955c153dc7.png">
    </sup>
