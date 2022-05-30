@@ -29,9 +29,7 @@
    <sub>I am currently working as a full stack web and mobile developer</sub>
    <br>
    <sup>and i am studying Machine Learning for private education.</sup><br></a>
-   <sub>
-      <img width="100%" src="https://user-images.githubusercontent.com/95272518/167558090-7d33bbb3-1a6d-4c2b-8f33-ad57f3d68e3d.svg">
-   </sub> 
+   <hr>
 </div>
 
 
