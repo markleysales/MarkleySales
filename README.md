@@ -17,7 +17,7 @@
 <br>
 <div id="main-presentation" align="left">
    <sup>
-      <img width="22%" src="https://user-images.githubusercontent.com/95272518/171054905-19a3cfdb-cc1e-407a-9530-cb09dad6ceee.png">
+      <img width="22%" src="https://user-images.githubusercontent.com/95272518/171055021-34e2daa2-0468-46af-8947-6a31fa0cd266.svg">
    </sup>
    <br>
    <a href="https://github.com/markleysales"><b>Live the future
