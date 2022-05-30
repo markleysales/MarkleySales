@@ -29,9 +29,9 @@
    <sub>I am currently working as a full stack web and mobile developer</sub>
    <br>
    <sup>and i am studying Machine Learning for private education.</sup><br></a>
-   <hr>
 </div>
 
+<hr>
 
 <div>
   <h3>Technologies</H3>
