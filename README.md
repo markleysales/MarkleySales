@@ -28,7 +28,7 @@
    <br>
    <sub>I am currently working full-time as a software engineer and pursuing a bachelor's degree in</sub>
    <br>
-   <sup>Software Engineering, In my spare time I study Machine Learning for private education.</sup><br></a>
+   <sup>Software Engineering, in my spare time i study Machine Learning for private education.</sup><br></a>
 </div>
 
 <hr>
