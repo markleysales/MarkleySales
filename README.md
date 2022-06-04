@@ -26,9 +26,9 @@
    <br>
    <sup>development, data architecture, microservices and graphic design.</sup>
    <br>
-   <sub>I am currently working full-time as a software engineer and</sub>
+   <sub>I am currently working full-time as a software engineer</sub>
    <br>
-   <sup>pursuing a bachelor's degree in Software Engineering.</sup><br></a>
+   <sup>and pursuing a bachelor's degree in Software Engineering.</sup><br></a>
 </div>
 
 <hr>
