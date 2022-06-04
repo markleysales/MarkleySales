@@ -26,9 +26,9 @@
    <br>
    <sup>development, data architecture, microservices and graphic design.</sup>
    <br>
-   <sub>I am currently working full-time as a software engineer and pursuing a bachelor's degree in</sub>
+   <sub>I am currently working full-time as a software engineer and</sub>
    <br>
-   <sup>Software Engineering, in my spare time i study Machine Learning for private education.</sup><br></a>
+   <sup>pursuing a bachelor's degree in Software Engineering.</sup><br></a>
 </div>
 
 <hr>
