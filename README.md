@@ -1,4 +1,4 @@
-<!-- --README MADE BY MARKLEY SALES!--README MADE BY MARKLEY SALES!-- -->
+<!-- --README MADE BY MARKLEY SALES--README MADE BY MARKLEY SALES-- -->
 <img width="54.8%" align="right" src="https://user-images.githubusercontent.com/95272518/171215703-b3f421fa-aa11-423e-997d-906cb58b13f5.svg">
 <div id="header" align="left">
   
