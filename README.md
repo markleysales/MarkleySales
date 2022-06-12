@@ -5,21 +5,20 @@
   <!-- <img id="bg" width="80%" src="https://user-images.githubusercontent.com/95272518/167551997-c34c7c46-78ec-4f76-b27c-60704aefd16f.svg">
    <br><br>  -->
    <sup>
-      <a href="https://drive.google.com/u/0/uc?id=1l8d5X9o_KHNy6ev_dZzjcRdkJFKUHrYZ&export=download">
-      <img height="20px" src="https://img.shields.io/badge/Download CV-%236633cc?&logoColor=F20F00&color=003140&style=flat">
-      </a>
-      <a href="https://gitlab.com/marksales">
-         <img height="20px" src="https://img.shields.io/badge/GitLab-%236633?style=flat&logo=GitLab&color=003140">
-      </a>
-      <img height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales&count_bg=%23003140&title_bg=%23003140&icon=myspace.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false">
+     <img width="22%" src="https://user-images.githubusercontent.com/95272518/171055021-34e2daa2-0468-46af-8947-6a31fa0cd266.svg">
+     <br><br>
+     <a href="https://drive.google.com/u/0/uc?id=1l8d5X9o_KHNy6ev_dZzjcRdkJFKUHrYZ&export=download">
+     <img height="20px" src="https://img.shields.io/badge/Download CV-%236633cc?&logoColor=F20F00&color=003140&style=flat">
+     </a>
+     <a href="https://gitlab.com/marksales">
+       <img height="20px" src="https://img.shields.io/badge/GitLab-%236633?style=flat&logo=GitLab&color=003140">
+     </a>
+     <img height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales&count_bg=%23003140&title_bg=%23003140&icon=myspace.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false">
    </sup>
 </div>
 <br>
 <div id="main-presentation" align="center">
-   <sup>
-      <img width="22%" src="https://user-images.githubusercontent.com/95272518/171055021-34e2daa2-0468-46af-8947-6a31fa0cd266.svg">
-   </sup>
-   <br>
+   
    <a href="https://github.com/markleysales"><b>Live the future
    <br>
    <sub>Professional and academic in agile technologies for software</sub>
