@@ -1,33 +1,27 @@
 <!-- --README MADE BY MARKLEY SALES--README MADE BY MARKLEY SALES-- -->
 <!-- <img width="54.8%" align="right" src="https://user-images.githubusercontent.com/95272518/171215703-b3f421fa-aa11-423e-997d-906cb58b13f5.svg"> -->
-<div id="header" align="center">
+<div id="header" align="center"><sub>
      <img width="22%" src="https://user-images.githubusercontent.com/95272518/171055021-34e2daa2-0468-46af-8947-6a31fa0cd266.svg">
      <br>
-     <sub>
-       <a href="https://drive.google.com/u/0/uc?id=1l8d5X9o_KHNy6ev_dZzjcRdkJFKUHrYZ&export=download">
-         <img height="20px" src="https://img.shields.io/badge/Download CV-%236633cc?&logoColor=F20F00&color=003140&style=flat">
-       </a>
-       <a href="https://gitlab.com/marksales">
-         <img height="20px" src="https://img.shields.io/badge/GitLab-%236633?style=flat&logo=GitLab&color=003140">
-       </a>
-       <img height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales&count_bg=%23003140&title_bg=%23003140&icon=myspace.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false">
-     </sub>
-</div>
+     <a href="https://drive.google.com/u/0/uc?id=1l8d5X9o_KHNy6ev_dZzjcRdkJFKUHrYZ&export=download">
+     <img height="20px" src="https://img.shields.io/badge/Download CV-%236633cc?&logoColor=F20F00&color=003140&style=flat">
+     </a>
+     <a href="https://gitlab.com/marksales">
+       <img height="20px" src="https://img.shields.io/badge/GitLab-%236633?style=flat&logo=GitLab&color=003140">
+     </a>
+     <img height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales&count_bg=%23003140&title_bg=%23003140&icon=myspace.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false">
+</sub></div>
 <br>
 <div id="main-presentation" align="center">
-   <a href="https://github.com/markleysales"><b>LIVE THE FUTURE
+   <a href="https://github.com/markleysales"><b>Live the future
    <br>
-   <h5>
-     Professional and academic in agile technologies for software
-     <br>
-     development, data architecture, microservices and graphic design.
-   </h5>
-   <h5>
-     I am currently working full-time as a software engineer
-     and pursuing a bachelor's degree in Software Engineering.
-     <br>
-   </h5>
-        
+   <sub>Professional and academic in agile technologies for software</sub>
+   <br>
+   <sup>development, data architecture, microservices and graphic design.</sup>
+   <br>
+   <sub>I am currently working full-time as a software engineer</sub>
+   <br>
+   <sup>and pursuing a bachelor's degree in Software Engineering.</sup><br></a>
 </div>
 
 <hr>
