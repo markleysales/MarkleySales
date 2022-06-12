@@ -15,20 +15,19 @@
 </div>
 <br>
 <div id="main-presentation" align="center">
-   <a href="https://github.com/markleysales">
-     <b>Live the future</b>
-   </a>
+   <a href="https://github.com/markleysales"><b>LIVE THE FUTURE
    <br>
-   <h5><a href="https://github.com/markleysales">
+   <h5>
      Professional and academic in agile technologies for software
      <br>
      development, data architecture, microservices and graphic design.
-   </a></h5>
-   <h5><a href="https://github.com/markleysales">
+   </h5>
+   <h5>
      I am currently working full-time as a software engineer
-     <br>
      and pursuing a bachelor's degree in Software Engineering.
-   </a></h5>
+     <br>
+   </h5>
+        
 </div>
 
 <hr>
