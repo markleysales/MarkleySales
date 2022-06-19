@@ -15,7 +15,7 @@
    <br>
    <sub>Professional and academic in agile technologies for software</sub>
    <br>
-   <sup>development, data architecture, microservices and graphic design.</sup>
+   <sup>development, DataOps, microservices and graphic design.</sup>
    <br>
    <sub>I am currently working full-time as a software engineer</sub>
    <br>
