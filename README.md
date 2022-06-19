@@ -1,6 +1,6 @@
 <div id="bg" align="center"><img width="76%" src="https://user-images.githubusercontent.com/95272518/167280871-bc382398-ba8e-40a3-9436-ef7cc875b432.svg"></div>
-<br> <!-- Possível plano de ação -->
-<div align="center">
+<br>
+<div align="center"><sub>
    <a href="https://drive.google.com/u/0/uc?id=1l8d5X9o_KHNy6ev_dZzjcRdkJFKUHrYZ&export=download">
       <img height="20px" src="https://img.shields.io/badge/Download CV-%236633cc?&color=003140&style=flat">
    </a>
@@ -8,7 +8,7 @@
    <a href="https://gitlab.com/marksales">
       <img height="20px" src="https://img.shields.io/badge/GitLab-%236633?style=flat&logo=GitLab&color=003140">
    </a>
-</div>
+</sub></div>
 <br>
 <div align="center">
 <a href="https://github.com/markleysales"><b>Live the future
