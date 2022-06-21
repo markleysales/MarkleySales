@@ -1,7 +1,7 @@
 <div id="bg" align="center"><img width="76%" src="https://user-images.githubusercontent.com/95272518/167280871-bc382398-ba8e-40a3-9436-ef7cc875b432.svg"></div>
 <br>
 <div align="center"><sub>
-   <a href="https://drive.google.com/u/0/uc?id=1l8d5X9o_KHNy6ev_dZzjcRdkJFKUHrYZ&export=download">
+   <a href="https://drive.google.com/u/0/uc?id=1uHnmY5VJI2K71h53dBZPvW020ngPj1bO&export=download">
       <img height="20px" src="https://img.shields.io/badge/Download CV-%236633cc?&color=003140&style=flat">
    </a>
    <img height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales&count_bg=%23003140&title_bg=%23003140&icon=myspace.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false">
