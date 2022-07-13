@@ -11,7 +11,7 @@
 </sub></div>
 <br>
 <div align="center">
-<a href="https://github.com/markleysales"><b>Live the future
+<a href="https://github.com/markleysales"><b>"Live the future."
    <br>
    <sub>Professional and academic in agile technologies for software</sub>
    <br>
