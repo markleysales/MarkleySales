@@ -27,8 +27,8 @@
 <div>
   <h3>Technologies</H3>
   <h5>
-    NodeJS, Typescript NestJS, <i>Ruby</i>, MongoDB, PostgreSQL, Oracle Db, MySQL, AWS, Docker,<br>
-    Tailwind, <i>JavaScript</i>, Bootstrap, React, Next.js, Manim, Rails...<br><br>
+    NodeJS, Typescript NestJS, <i>Ruby</i>, MongoDB, PostgreSQL, Oracle Db, MySQL,<br>
+    AWS, Docker, Tailwind, <i>JavaScript</i>, Bootstrap, React, Next.js, Manim, Rails...<br><br>
   </h5>
 </div>
 
