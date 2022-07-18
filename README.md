@@ -1,6 +1,6 @@
-<div id="bg" align="center"><img width="76%" src="https://user-images.githubusercontent.com/95272518/178313595-89e888ea-7e03-464f-85c6-11e743b630a5.svg"></div>
+<div id="bg" align="left"><img width="76%" src="https://user-images.githubusercontent.com/95272518/178313595-89e888ea-7e03-464f-85c6-11e743b630a5.svg"></div>
 <br>
-<div align="center"><sub>
+<div align="left"><sub>
    <a href="https://drive.google.com/u/0/uc?id=1uHnmY5VJI2K71h53dBZPvW020ngPj1bO&export=download">
       <img height="20px" src="https://img.shields.io/badge/Download CV-%236633cc?&color=003140&style=flat">
    </a>
@@ -10,7 +10,7 @@
    </a>
 </sub></div>
 <br>
-<div align="center">
+<div align="left">
 <a href="https://github.com/markleysales"><b>"Live the future."
    <br>
    <sub>Professional and academic in agile technologies for software</sub>
