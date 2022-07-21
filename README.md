@@ -1,4 +1,4 @@
-<div align="center"><img width="76%" src="https://user-images.githubusercontent.com/95272518/180262101-aa507e46-294f-4bc1-a0a8-2ea623165adb.svg"></div>
+<div align="center"><img width="76%" src="https://user-images.githubusercontent.com/95272518/180262504-a2d7e881-426c-4fda-ac57-1d16ab274192.svg"></div>
 <br>
 <div align="center"><sub>
    <a href="https://drive.google.com/u/0/uc?id=1uHnmY5VJI2K71h53dBZPvW020ngPj1bO&export=download">
