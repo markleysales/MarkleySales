@@ -10,7 +10,7 @@
    </a>
 </sub></div>
 <br>
-<div align="center">
+<h3 align="center">
 <a href="https://github.com/markleysales"><b>"Live the future."
    <br>
    <sub>Professional and academic in agile technologies for software</sub>
@@ -20,7 +20,7 @@
    <sub>I am currently working full-time as a software engineer and</sub>
    <br>
    <sup>pursuing a bachelor's degree in Software Engineering.</sup></b></a>
-</div>
+</h3>
 <!-- 76 -->
 
 <hr>
