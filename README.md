@@ -24,7 +24,7 @@
 <hr>
 
 <div>
-  <h3>Technologies</H3>
+  <h3>TECHNOLOGIES</H3>
   <h5>
     NodeJS, Typescript NestJS, <i>Ruby</i>, MongoDB, PostgreSQL, Oracle Db, MySQL,<br>
     AWS, Docker, Tailwind, <i>JavaScript</i>, Bootstrap, React, Next.js, Manim, Rails...<br><br>
@@ -32,7 +32,7 @@
 </div>
 
 
-<h3>Contacts</h3>
+<h3>CONTACTS</h3>
 <div id="social-medias">
    <a href="https://www.instagram.com/mark_sales.it">
       <img height="20px" src="https://img.shields.io/badge/Instagram-%bebebecc?style=flat&logo=Instagram&logoColor=white&color=003140">
