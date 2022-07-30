@@ -3,11 +3,11 @@
 </h4>
 <div align="center"><sub>
    <a href="https://drive.google.com/u/0/uc?id=1l8d5X9o_KHNy6ev_dZzjcRdkJFKUHrYZ&export=download">
-      <img height="22px" src="https://img.shields.io/badge/Download CV-%236633cc?&color=003140&style=flat">
+      <img height="20px" src="https://img.shields.io/badge/Download CV-%236633cc?&color=003140&style=flat">
    </a>
-   <img height="22px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales&count_bg=%23003140&title_bg=%23003140&icon=myspace.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false">
+   <img height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales&count_bg=%23003140&title_bg=%23003140&icon=myspace.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false">
    <a href="https://gitlab.com/marksales">
-      <img height="22px" src="https://img.shields.io/badge/GitLab-%236633?style=flat&logo=GitLab&color=003140">
+      <img height="20px" src="https://img.shields.io/badge/GitLab-%236633?style=flat&logo=GitLab&color=003140">
    </a>
 </sub></div>
 
