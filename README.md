@@ -15,13 +15,15 @@
 <div align="center">
   <h5>
     <a href="https://github.com/markleysales">
-      Professional and academic in agile technologies for software<br>
+      Professional and academic in agile technologies for software
+      <br>
       development, DataOps, microservices and graphic design.
     </a>
     <br>
     <br>
     <a href="https://github.com/markleysales">
-      I am currently working full-time as a software engineer and<br>
+      I am currently working full-time as a software engineer and
+      <br>
       pursuing a bachelor's degree in Software Engineering.
     </a>
   <h5>
@@ -31,8 +33,11 @@
 <div>
   <h3>TECHNOLOGIES</H3>
   <h5>
-    NodeJS, Typescript NestJS, <i>Ruby</i>, MongoDB, PostgreSQL, Oracle Db, MySQL,<br>
-    AWS, Docker, Tailwind, <i>JavaScript</i>, Bootstrap, React, Next.js, Manim, Rails...<br><br>
+    NodeJS, Typescript NestJS, <i>Ruby</i>, MongoDB, PostgreSQL, Oracle Db, MySQL,
+    <br>
+    AWS, Docker, Tailwind, <i>JavaScript</i>, Bootstrap, React, Next.js, Manim, Rails...
+    <br>
+    <br>
   </h5>
 </div>
 
@@ -56,7 +61,8 @@
 </sup>
 <div>
   <h5>
-    Follow me on Instagram and LinkedIn! 🔔 Where I post news, trivia, articles<br>
+    Follow me on Instagram and LinkedIn! 🔔 Where I post news, trivia, articles
+    <br>
     and educational content from all over the tech and geek world! 💻
   </h5>
 </div>
