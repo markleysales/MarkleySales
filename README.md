@@ -8,16 +8,21 @@
       <img height="20px" src="https://img.shields.io/badge/GitLab-%236633?style=flat&logo=GitLab&color=003140">
    </a>
 </sub></div>
+
 <div align="center">
-<a href="https://github.com/markleysales"><b> <!-- "Live the future." -->
-   <br>
-   <sub>Professional and academic in agile technologies for software</sub>
-   <br>
-   <sup>development, DataOps, microservices and graphic design.</sup>
-   <br>
-   <sub>I am currently working full-time as a software engineer and</sub>
-   <br>
-   <sup>pursuing a bachelor's degree in Software Engineering.</sup></b></a>
+<a href="https://github.com/markleysales">
+  <h5>
+    <a href="https://github.com/markleysales">
+      Professional and academic in agile technologies for software<br>
+      development, DataOps, microservices and graphic design.
+    </a>
+  </h5>
+  <h5>
+    <a href="https://github.com/markleysales">
+      I am currently working full-time as a software engineer and<br>
+      pursuing a bachelor's degree in Software Engineering.
+    </a>
+  <h5>
 </div>
 <!-- 76 -->
 
