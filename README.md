@@ -22,7 +22,7 @@
     <br>
     <br>
     <a href="https://github.com/markleysales">
-      I am currently working full-time as a software engineer and
+      I am currently working full-time as a backend engineer and
       <br>
       pursuing a bachelor's degree in Software Engineering.
     </a>
@@ -32,7 +32,6 @@
 <hr>
 <div>
   <h3>TECHNOLOGIES</H3>
-  
   <div>
     <a href="">
       <img width="4%" src="https://user-images.githubusercontent.com/95272518/181870792-5074acf6-eb82-438b-b42d-0a9554e4559b.svg">
@@ -40,7 +39,10 @@
     <a href="">
       <img width="4%" height="" src="https://user-images.githubusercontent.com/95272518/181870857-fc78f4c7-d95d-4815-9000-4abb1abb80ca.svg">
     </a>
-     <a href="">
+    <a href="">
+      <img width="4%" height="" src="https://user-images.githubusercontent.com/95272518/181871040-7ddaeff2-3cb7-4e05-b76a-8a4c0e7987a4.svg">
+    </a>
+    <a href="">
       <img width="4%" height="" src="https://user-images.githubusercontent.com/95272518/181870988-257a4c94-cdcd-4ae6-a639-ad41b41ff424.svg">
     </a>
     <a href="">
@@ -50,7 +52,6 @@
       <img width="4%" height="" src="https://user-images.githubusercontent.com/95272518/181870930-f2438178-19a0-49cd-a82f-830bdd6d1f9a.svg">
     </a>
   </div>
-  
   <h5>
     NodeJS, Typescript NestJS, <i>Ruby</i>, MongoDB, PostgreSQL, Oracle Db, MySQL,
     <br>
