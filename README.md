@@ -18,8 +18,8 @@
       Professional and academic in agile technologies for software<br>
       development, DataOps, microservices and graphic design.
     </a>
-  </h5>
-  <h5>
+    <br>
+    <br>
     <a href="https://github.com/markleysales">
       I am currently working full-time as a software engineer and<br>
       pursuing a bachelor's degree in Software Engineering.
