@@ -32,6 +32,25 @@
 <hr>
 <div>
   <h3>TECHNOLOGIES</H3>
+  
+  <div>
+    <a href="">
+      <img width="4%" src="https://user-images.githubusercontent.com/95272518/181870792-5074acf6-eb82-438b-b42d-0a9554e4559b.svg">
+    </a>
+    <a href="">
+      <img width="4%" height="" src="https://user-images.githubusercontent.com/95272518/181870857-fc78f4c7-d95d-4815-9000-4abb1abb80ca.svg">
+    </a>
+     <a href="">
+      <img width="4%" height="" src="https://user-images.githubusercontent.com/95272518/181870988-257a4c94-cdcd-4ae6-a639-ad41b41ff424.svg">
+    </a>
+    <a href="">
+      <img width="4%" height="" src="https://user-images.githubusercontent.com/95272518/181870911-d3b48c48-7d72-4958-b9e8-174d48cd6914.svg">
+    </a>
+    <a href="">
+      <img width="4%" height="" src="https://user-images.githubusercontent.com/95272518/181870930-f2438178-19a0-49cd-a82f-830bdd6d1f9a.svg">
+    </a>
+  </div>
+  
   <h5>
     NodeJS, Typescript NestJS, <i>Ruby</i>, MongoDB, PostgreSQL, Oracle Db, MySQL,
     <br>
