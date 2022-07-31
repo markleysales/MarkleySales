@@ -57,6 +57,9 @@
     <a href="">
       <img width="4%" height="" src="https://user-images.githubusercontent.com/95272518/181870930-f2438178-19a0-49cd-a82f-830bdd6d1f9a.svg">
     </a>
+    <a href="">
+      <img width="4%" height="" src="https://user-images.githubusercontent.com/95272518/182048307-3be83a33-94ce-41be-afea-29a0030ca834.svg">
+    </a>
   </div>
   <h5>
     NodeJS, Typescript NestJS, <i>Ruby</i>, MongoDB, PostgreSQL, Oracle Db, MySQL,
