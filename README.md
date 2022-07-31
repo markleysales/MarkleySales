@@ -62,7 +62,7 @@
     </a>
   </div>
   <h5>
-    NodeJS, Typescript, NestJS, MongoDB, Go, Rust, Oracle Db, MySQL, Nginx,
+    NodeJS, Typescript, NestJS, Go, Rust, MongoDB, Oracle Db, MySQL, Nginx,
     <br>
     AWS, Docker, Portainer, Kubernetes, Tailwind, Bootstrap, React, Manim...
     <br>
