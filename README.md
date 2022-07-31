@@ -43,6 +43,12 @@
       <img width="4%" height="" src="https://user-images.githubusercontent.com/95272518/181871040-7ddaeff2-3cb7-4e05-b76a-8a4c0e7987a4.svg">
     </a>
     <a href="">
+      <img width="4%" height="" src="https://user-images.githubusercontent.com/95272518/182047970-ce440e51-35fc-4429-b478-1cb74250d5bb.svg">
+    </a>
+    <a href="">
+      <img width="4%" height="" src="https://user-images.githubusercontent.com/95272518/182047981-c0db628b-d7a2-455d-9227-487cbc2f433e.svg">
+    </a>
+    <a href="">
       <img width="4%" height="" src="https://user-images.githubusercontent.com/95272518/181870988-257a4c94-cdcd-4ae6-a639-ad41b41ff424.svg">
     </a>
     <a href="">
