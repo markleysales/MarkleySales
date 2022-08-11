@@ -1,7 +1,8 @@
-<h4 align="center">
+<!-- <h4 align="center">
   <img align="center" width="76%" src="https://user-images.githubusercontent.com/95272518/180338655-3e366591-e1c6-4e53-9a1b-8d920e3fea87.svg">
-</h4>
-<div align="center">
+</h4> -->
+<h3>ABOUT ME</h3>
+<div align="left">
   <sub>
     <a href="https://drive.google.com/u/0/uc?id=1l8d5X9o_KHNy6ev_dZzjcRdkJFKUHrYZ&export=download">
     <img height="20px" src="https://img.shields.io/badge/Download CV-%236633cc?&color=003140&style=flat">
@@ -12,7 +13,7 @@
     </a>
   </sub>
 </div>
-<div align="center">
+<div align="left">
   <h5>
     <a href="https://github.com/markleysales">
       Professional and academic in agile technologies for software
