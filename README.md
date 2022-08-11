@@ -27,10 +27,11 @@
       <br>
       pursuing a bachelor's degree in Software Engineering.
     </a>
-  <h5>
+    <br>
+    <br>
+  </h5>
 </div>
 
-<hr>
 <div>
   <h3>TECHNOLOGIES</H3>
   <div>
