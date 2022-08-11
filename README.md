@@ -87,9 +87,6 @@
     <img height="20px" src="https://img.shields.io/badge/Whatsapp-%236633cc?&logo=Whatsapp&logoColor=white&color=003140&style=flat">
   </a>
 </div>
-<sup>
-  <img align="right" width="14%" src="https://user-images.githubusercontent.com/95272518/170850823-0fbcd2a2-d39f-450e-8659-06cbb93b211f.svg">
-</sup>
 <div>
   <h5>
     Follow me on Instagram! 🔔 Where I post news, trivia and
