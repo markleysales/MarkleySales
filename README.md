@@ -63,9 +63,9 @@
     </a>
   </div>
   <h5>
-    NodeJS, Typescript, NestJS, Go, Rust, MongoDB, OracleDB, MySQL, Nginx,
+    NodeJS, Typescript, Go, Rust, OracleDB, MySQL, Nginx, AWS,
     <br>
-    AWS, Docker, Portainer, Kubernetes, Tailwind, Bootstrap, React, Manim...
+    Docker, Portainer, Tailwind, Bootstrap, React, Manim...
     <br>
     <br>
   </h5>
@@ -91,9 +91,9 @@
 </sup>
 <div>
   <h5>
-    Follow me on Instagram and LinkedIn! 🔔 Where I post news, trivia, articles
+    Follow me on Instagram! 🔔 Where I post news, trivia and
     <br>
-    and educational content from all over the tech and geek world! 💻
+    educational content from all over the tech and geek world! 
   </h5>
 </div>
 <div>
