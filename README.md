@@ -1,6 +1,6 @@
-<!-- <h4 align="center">
-  <img align="center" width="76%" src="https://user-images.githubusercontent.com/95272518/180338655-3e366591-e1c6-4e53-9a1b-8d920e3fea87.svg">
-</h4> -->
+<h4 align="right">
+  <img align="center" width="30%" src="https://user-images.githubusercontent.com/95272518/184052198-e686b58e-f865-416b-969f-0b1b58118841.svg">
+</h4>
 <h3>ABOUT ME</h3>
 <div align="left">
   <sub>
