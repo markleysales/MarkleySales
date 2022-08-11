@@ -1,7 +1,6 @@
-<div align="right">
+<!-- <div align="right">
   <img width="40%" src="https://user-images.githubusercontent.com/95272518/184052198-e686b58e-f865-416b-969f-0b1b58118841.svg">
-</div>
-<div align="left">
+</div> -->
 <h3>ABOUT ME</h3>
 <div align="left">
   <sub>
@@ -103,5 +102,3 @@
     https://lighthouseit.com.br
   </a></h5>
 </div>
-</div>
-
