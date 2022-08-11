@@ -65,7 +65,7 @@
   <h5>
     NodeJS, Typescript, Go, Rust, OracleDB, MySQL, Nginx, AWS,
     <br>
-    Docker, Portainer, Tailwind, Bootstrap, React, Manim...
+    Docker, Portainer, Tailwind, Bootstrap, React, Python, Manim...
     <br>
     <br>
   </h5>
