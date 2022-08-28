@@ -1,6 +1,6 @@
 <main>
   <div>
-    <img align="right" width="40%" src="https://user-images.githubusercontent.com/95272518/187094103-6f89d885-58bc-46f7-b17e-1bcb9e643065.gif">
+    <img align="right" width="42%" src="https://user-images.githubusercontent.com/95272518/187094103-6f89d885-58bc-46f7-b17e-1bcb9e643065.gif">
   </div>
   <h3>ABOUT ME</h3>
   <div>
