@@ -26,7 +26,7 @@
       <br>
       <br>
       <a href="https://github.com/markleysales">
-        I am currently working full-time as a backend engineer and
+        I am currently working full-time as a software engineer and
         <br>
         pursuing a bachelor's degree in Software Engineering.
       </a>
