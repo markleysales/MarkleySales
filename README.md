@@ -5,7 +5,7 @@
       <!-- <img align="right" width="42%" src="https://user-images.githubusercontent.com/95272518/187094103-6f89d885-58bc-46f7-b17e-1bcb9e643065.gif"> -->
     </sub>
   </div>
-  <h3>ABOUT ME</h3>
+  <h3>ABOUT ME...</h3>
   <div>
     <sub>
       <a href="https://drive.google.com/u/0/uc?id=1E10x4QeqbacW4wZuM9T4LMA35vn89gae&export=download">
@@ -22,7 +22,7 @@
       <a href="https://github.com/markleysales">
         Professional and academic in agile technologies for software
         <br>
-        development, DataOps, microservices and graphic design.
+        development, DataOps and DevOps with 3+ years of XP.
       </a>
       <br>
       <br>
@@ -37,7 +37,7 @@
   </div>
 
   <div>
-    <h3>TECHNOLOGIES</H3>
+    <h3>SOME TECHNOLOGIES...</H3>
     <div>
       <a href="">
         <img width="4%" src="https://user-images.githubusercontent.com/95272518/181870792-5074acf6-eb82-438b-b42d-0a9554e4559b.svg">
@@ -67,14 +67,6 @@
         <img width="4%" height="" src="https://user-images.githubusercontent.com/95272518/182048307-3be83a33-94ce-41be-afea-29a0030ca834.svg">
       </a>
     </div>
-    <h5>
-      NodeJS, Typescript, Python, Rust, OracleDB, MySQL, Nginx, AWS,
-      <br>
-      Docker, Portainer, Tailwind, Bootstrap, React, Python, Manim...
-      <br>
-      <br>
-    </h5>
-  </div>
 
   <h3>CONTACTS</h3>
   <div id="social-medias">
@@ -90,13 +82,6 @@
     <a href="https://api.whatsapp.com/send?phone=5591983367707&text=Hello%20Markley!%20I%20visited%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20talk%20about%20it.">
       <img height="20px" src="https://img.shields.io/badge/Whatsapp-%236633cc?&logo=Whatsapp&logoColor=white&color=003140&style=flat">
     </a>
-  </div>
-  <div>
-    <h5>
-      Follow me on Instagram! 🔔 Where I post news, trivia and
-      <br>
-      educational content from all over the tech and geek world! 
-    </h5>
   </div>
   <div>
     <h5><a href="mailto:marksales.dev.eng@gmail.com">
