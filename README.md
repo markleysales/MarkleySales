@@ -1,7 +1,7 @@
 <main>
   <div>
     <sub>
-      <img align="right" width="42%" src="https://github.com/markleysales/MarkleySales/assets/95272518/76ee5d42-4358-40e5-baec-5dd2384552e5">
+      <img align="right" width="42%" src="https://github.com/markleysales/MarkleySales/assets/95272518/78fb0ea9-c1d1-48b3-885a-8e779ca52c57">
       <!-- <img align="right" width="42%" src="https://user-images.githubusercontent.com/95272518/187094103-6f89d885-58bc-46f7-b17e-1bcb9e643065.gif"> -->
     </sub>
   </div>
