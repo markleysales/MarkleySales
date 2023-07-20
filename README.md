@@ -37,7 +37,7 @@
   </div>
 
   <div>
-    <h3>SOME TECHNOLOGIES...</H3>
+    <h3>SOME TECHS...</H3>
     <div>
       <a href="">
         <img width="4%" src="https://user-images.githubusercontent.com/95272518/181870792-5074acf6-eb82-438b-b42d-0a9554e4559b.svg">
